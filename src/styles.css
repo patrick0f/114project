@@ -1,0 +1,167 @@
+:root {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 3.5rem;
+}
+p {
+  font-size: 1.5rem;
+}
+h2 {
+  font-size: 2.7rem;
+}
+li a {
+  text-decoration: none;
+  color: #2d2f31;
+}
+.head {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.head p {
+  font-size: 2.5rem;
+}
+
+.head h2 {
+  font-size: 3.5rem;
+}
+
+.heading {
+  font-size: 5rem;
+}
+
+li:hover {
+  background-color: rgb(177, 177, 177);
+}
+nav {
+  width: 100%;
+}
+span {
+  padding: 3rem;
+  background: #3d4042;
+  color: white;
+  cursor: pointer;
+  display: block;
+  border-bottom: 2px solid #555353;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+span:hover {
+  background: #55595c;
+}
+
+.unitLabel,
+i {
+  font-size: 2.75rem;
+}
+
+i {
+  font-style: normal;
+}
+
+.slide {
+  clear: both;
+  width: 100%;
+  height: 0px;
+  overflow: hidden;
+  transition: height 0.4s ease;
+  padding-left: 0;
+}
+.slide li {
+  padding: 3rem;
+  padding-left: 0;
+  padding-right: 2rem;
+  list-style: none;
+}
+
+#touch,
+#touch1,
+#touch2,
+#touch3,
+#touch4,
+#touch5,
+#touch6,
+#touch7,
+#touch8,
+#touch9,
+#touch10,
+#touch11 {
+  position: absolute;
+  opacity: 0;
+  height: 0px;
+}
+
+#touch:checked + .slide {
+  height: auto;
+}
+#touch2:checked + .slide {
+  height: auto;
+}
+#touch3:checked + .slide {
+  height: auto;
+}
+#touch4:checked + .slide {
+  height: auto;
+}
+#touch5:checked + .slide {
+  height: auto;
+}
+#touch6:checked + .slide {
+  height: auto;
+}
+#touch7:checked + .slide {
+  height: auto;
+}
+#touch8:checked + .slide {
+  height: auto;
+}
+#touch9:checked + .slide {
+  height: auto;
+}
+#touch10:checked + .slide {
+  height: auto;
+}
+#touch11:checked + .slide {
+  height: auto;
+}
+#touch1:checked + .slide {
+  height: auto;
+}
+ul {
+  background: #d9d9d9;
+  margin: 0;
+}
+li {
+  padding-left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+a {
+  padding-left: 2rem;
+  font-size: 2.5rem;
+}
+.score {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+/* responsive design */
+
+@media (max-width: 600px) {
+  .unitlabel,
+  i {
+    font-size: 5rem;
+  }
+  a {
+    font-size: 2.5rem;
+  }
+}
