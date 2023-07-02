@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Seals in an aquarium will repeat behaviors, such as slapping and barking, that prompt people to toss them a herring. This best illustrates",
+    "choice1": "operant conditioning.",
+    "choice2": "spontaneous recovery.",
+    "choice3": "observational learning.",
+    "choice4": "latent learning.",
+    "answer": 1
+  },
+  {
+    "question": "Little Albert developed a fear of rats after a white rat was paired with a loud noise. In this case, the loud noise was the",
+    "choice1": "unconditioned stimulus.",
+    "choice2": "primary reinforcer.",
+    "choice3": "conditioned reinforcer.",
+    "choice4": "delayed reinforcer.",
+    "answer": 1
+  },
+  {
+    "question": "What type of learning involves determining a solution after a period of thinking about a problem but without any other type of direct, systematic interaction with the environment?",
+    "choice1": "classical conditioning",
+    "choice2": "insight learning",
+    "choice3": "operant learning",
+    "choice4": "latent learning",
+    "answer": 2
+  },
+  {
+    "question": "Cats received a fish reward whenever they maneuvered themselves out of an enclosed puzzle box. Afterwards, the cats re-entered to the entrance of the maze without being enticed. This illustrates",
+    "choice1": "the law of effect.",
+    "choice2": "negative reinforcement.",
+    "choice3": "insight learning.",
+    "choice4": "spontaneous recovery.",
+    "answer": 1
+  },
+  {
+    "question": "Robert was late for school, so he parked in a space reserved for teachers. Later, when he went to get his car, he noticed a yellow warning ticket under the windshield wiper. The warning ticket would be considered",
+    "choice1": "positive reinforcement.",
+    "choice2": "positive punishment.",
+    "choice3": "negative reinforcement.",
+    "choice4": "continuous reinforcement.",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following behaviors is typically reinforced on a variable-ratio schedule?",
+    "choice1": "assembling car parts in a factory",
+    "choice2": "inserting coins into a slot machine",
+    "choice3": "checking the mailbox to see if the mail has arrived",
+    "choice4": "paying a cashier for a candy bar",
+    "answer": 2
+  },
+  {
+    "question": "After learning to fear a white rat, Little Albert responded with fear to the sight of a rabbit. This best illustrates the process of",
+    "choice1": "spontaneous recovery.",
+    "choice2": "generalization.",
+    "choice3": "latent learning.",
+    "choice4": "secondary reinforcement.",
+    "answer": 2
+  },
+  {
+    "question": "Bandura's Bobo doll experiments indicate that ________ is important in the process of learning.",
+    "choice1": "shaping",
+    "choice2": "modeling",
+    "choice3": "secondary reinforcement",
+    "choice4": "respondent behavior",
+    "answer": 2
+  },
+  {
+    "question": "While hamsters may easily be taught to dig in response to a stimuli and pigeons are easily trained to peck as a CR, it would be difficult to condition a horse to climb a tree. This best illustrates the impact of ________ on learning.",
+    "choice1": "fixed ratio schedules",
+    "choice2": "cognitive processes",
+    "choice3": "biological predispositions",
+    "choice4": "shaping",
+    "answer": 3
+  },
+  {
+    "question": "In a well-known experiment, preschool children pounded and kicked a large inflated Bobo doll just as they had seen an adult do. This experiment served to illustrate the importance of",
+    "choice1": "spontaneous recovery.",
+    "choice2": "observational learning.",
+    "choice3": "negative reinforcement.",
+    "choice4": "operant conditioning.",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an unconditioned response?",
+    "choice1": "salivating at the sight of a lemon",
+    "choice2": "jerking your hand off a very hot stove",
+    "choice3": "walking into a restaurant to eat",
+    "choice4": "working for money.",
+    "answer": 2
+  },
+  {
+    "question": "Caroline loves to read and enjoys looking up the meanings of words she does not know. Caroline's behavior is best described as",
+    "choice1": "intrinsic motivation.",
+    "choice2": "insight learning.",
+    "choice3": "generalization.",
+    "choice4": "spontaneous recovery.",
+    "answer": 1
+  },
+  {
+    "question": "Pets who learn that the sound of an electric can opener signals the arrival of their food illustrate",
+    "choice1": "observational learning.",
+    "choice2": "shaping.",
+    "choice3": "negative reinforcement.",
+    "choice4": "classical conditioning.",
+    "answer": 4
+  },
+  {
+    "question": "After experiencing inescapable brutalities as a prisoner in a Nazi concentration camp, Mr. Sternberg became apathetic, stopped eating, and gave up all efforts to physically survive the ordeal. Mr. Sternberg's reaction most clearly illustrates",
+    "choice1": "negative reinforcement.",
+    "choice2": "observational learning.",
+    "choice3": "learned helplessness.",
+    "choice4": "schedules of reinforcement.",
+    "answer": 3
+  },
+  {
+    "question": "The researcher who used dogs and is most closely associated with the study of classical conditioning is",
+    "choice1": "Edward Thorndike.",
+    "choice2": "Ivan Pavlov.",
+    "choice3": "Edward Deci.",
+    "choice4": "B. F. Skinner.",
+    "answer": 2
+  },
+  {
+    "question": "After one chimpanzee sees a second chimp open a box that contains a food reward, the first animal opens a similar box with great speed. This best illustrates",
+    "choice1": "observational learning.",
+    "choice2": "positive reinforcement.",
+    "choice3": "shaping.",
+    "choice4": "respondent behavior.",
+    "answer": 1
+  },
+  {
+    "question": "Months after she was raped, Courtney's heart still pounds with fear when she is in a room with men. Her fear of men is most likely a(n) ________.",
+    "choice1": "extinction",
+    "choice2": "unconditioned stimulus",
+    "choice3": "generalization",
+    "choice4": "positive punishment",
+    "answer": 3
+  },
+  {
+    "question": "The last time you came home after your curfew, your parents grounded you for the next two weekends. Ever since then you have been careful to come home on time. The change in your behavior is best explained by",
+    "choice1": "classical conditioning.",
+    "choice2": "operant conditioning.",
+    "choice3": "habituation.",
+    "choice4": "latent learning.",
+    "answer": 2
+  },
+  {
+    "question": "To condition his cows to return to the barn to eat, a farmer activated an electronic beeper on their collar with his cell phone and then fed the cows when they returned to the barn. After accidentally activating the beeper numerous times and not providing food for the cows when they returned to the barn, which of the following is likely to occur?",
+    "choice1": "reinforcement",
+    "choice2": "extinction",
+    "choice3": "latent learning",
+    "choice4": "shaping",
+    "answer": 2
+  },
+  {
+    "question": "Animals' need for adaptation in order to survive is illustrated in experiments involving rats that easily learned to associate nausea-producing radiation treatments with",
+    "choice1": "high-pitched sounds coinciding with treatments.",
+    "choice2": "fur loss in the weeks following treatments.",
+    "choice3": "food eaten before treatments.",
+    "choice4": "bright lights flashed during treatments.",
+    "answer": 3
+  },
+  {
+    "question": "Jeremy wears his baseball cap backward because he noticed his older brother does so. This illustrates the importance of",
+    "choice1": "modeling.",
+    "choice2": "respondent behavior.",
+    "choice3": "insight learning.",
+    "choice4": "spontaneous recovery.",
+    "answer": 1
+  },
+  {
+    "question": "After recovering from a serious motorcycle accident, Gina was afraid to ride a motorcycle on the highway but not afraid to ride in car. Gina's pattern of fear best illustrates",
+    "choice1": "discrimination.",
+    "choice2": "negative reinforcement.",
+    "choice3": "shaping.",
+    "choice4": "spontaneous recovery.",
+    "answer": 1
+  },
+  {
+    "question": "Purchasing state lottery tickets is reinforced with monetary winnings on a ________ schedule.",
+    "choice1": "variable-ratio",
+    "choice2": "fixed-interval",
+    "choice3": "intermittent-continuous",
+    "choice4": "fixed-ratio",
+    "answer": 1
+  },
+  {
+    "question": "If a ringing bell causes a dog to salivate because the bell has been regularly associated with food in the mouth, the UR is the",
+    "choice1": "ringing bell.",
+    "choice2": "salivation to the ringing bell.",
+    "choice3": "dog's hunger.",
+    "choice4": "salivation to the food.",
+    "answer": 1
+  },
+  {
+    "question": "If rats are allowed to wander through a complicated maze, they will subsequently run the maze with few errors when a food reward is placed at the end. Their good performance demonstrates",
+    "choice1": "latent learning.",
+    "choice2": "spontaneous recovery.",
+    "choice3": "modeling.",
+    "choice4": "delayed reinforcement.",
+    "answer": 1
+  },
+  {
+    "question": "Learning involves",
+    "choice1": "the ability to think abstractly.",
+    "choice2": "a reduction in extrinsic motivation.",
+    "choice3": "a relatively permanent change in behavior due to experience.",
+    "choice4": "the development of prosocial behavior.",
+    "answer": 3
+  },
+  {
+    "question": "Wolves that were tempted into eating sheep carcasses laced with poison develop an aversion to sheep meat. Which of the following best illustrates how biological predispositions have helped animals adapt in the evolutionary process?",
+    "choice1": "superstitions",
+    "choice2": "learned helplessness",
+    "choice3": "taste aversion",
+    "choice4": "the importance of cognition in classical conditioning",
+    "answer": 3
+  },
+  {
+    "question": "Learning from our own mistakes is an important part of life. These associations between one's own personal actions and resulting events is most relevant to the process of",
+    "choice1": "classical conditioning.",
+    "choice2": "insight.",
+    "choice3": "observational learning.",
+    "choice4": "operant conditioning.",
+    "answer": 4
+  },
+  {
+    "question": "As you enter the kitchen after school you can smell chocolate chip cookies baking. This scent causes you to salivate. Your salivation is best explained by",
+    "choice1": "classical conditioning.",
+    "choice2": "observational learning.",
+    "choice3": "habituation.",
+    "choice4": "operant conditioning.",
+    "answer": 1
+  },
+  {
+    "question": "Dan and Joel, both 4-year-olds, have been watching reruns of “Superman” on television. Joel's mother recently found the boys standing on the garage roof, ready to try flying. What best accounts for the boys' behavior?",
+    "choice1": "immediate reinforcement",
+    "choice2": "delayed reinforcement",
+    "choice3": "classical conditioning",
+    "choice4": "observational learning",
+    "answer": 4
+  },
+  {
+    "question": "If a baseball player gets a hit after tapping the plate with the bat, he is more likely to repeat that behavior the next time he's up to the plate. Which of the following best explains this superstitious behavior?",
+    "choice1": "Immediate reinforcers are more effective when delayed in changing behavior.",
+    "choice2": "Operant behaviors are voluntary.",
+    "choice3": "Reinforced behavior, even if it is accidental, is more likely to be repeated.",
+    "choice4": "Variable-interval schedules produce high rates of responding.",
+    "answer": 3
+  },
+  {
+    "question": "Every Saturday morning, Arnold quickly washes the family's breakfast dishes so that his father will allow him to go play basketball with his friends. In this instance, playing basketball is a(n)",
+    "choice1": "unconditioned response.",
+    "choice2": "negative reinforcement.",
+    "choice3": "positive reinforcement.",
+    "choice4": "positive punishment.",
+    "answer": 3
+  },
+  {
+    "question": "Marcy grows roses because she enjoys it; Jennifer grows them to sell at a profit. Jennifer's behavior reflects _____.",
+    "choice1": "extrinsic motivation",
+    "choice2": "acquisition",
+    "choice3": "a fixed-ratio schedule",
+    "choice4": "classical conditioning",
+    "answer": 1
+  },
+  {
+    "question": "Little Albert was conditioned by John B. Watson to fear furry white rats. After conditioning, Albert also showed fear to rabbits, dogs, and fur coats. This best illustrates",
+    "choice1": "shaping.",
+    "choice2": "extinction.",
+    "choice3": "generalization.",
+    "choice4": "discrimination.",
+    "answer": 3
+  },
+  {
+    "question": "Mason, a stockbroker, runs two miles every day after work because it reduces his level of stress. Mason's running habit is maintained by a(n) ________ reinforcement.",
+    "choice1": "positive",
+    "choice2": "negative",
+    "choice3": "partial",
+    "choice4": "conditioned",
+    "answer": 2
+  },
+  {
+    "question": "After Pavlov had conditioned a dog to salivate to a tone, he repeatedly sounded the tone without presenting the food. As a result, ________ occurred.",
+    "choice1": "extinction",
+    "choice2": "negative reinforcement",
+    "choice3": "latent learning",
+    "choice4": "generalization",
+    "answer": 1
+  },
+  {
+    "question": "The psychologist who taught pigeons to \"read\" and is most closely associated with the study of operant conditioning was",
+    "choice1": "Ivan Pavlov.",
+    "choice2": "John Garcia.",
+    "choice3": "B. F. Skinner.",
+    "choice4": "Albert Bandura.",
+    "answer": 3
+  },
+  {
+    "question": "Coffee shops that reward customers with one free cup of coffee after every ten coffee purchases are using a ________ reinforcement schedule.",
+    "choice1": "intermittent-continuous",
+    "choice2": "variable-ratio",
+    "choice3": "variable-interval",
+    "choice4": "fixed-ratio",
+    "answer": 4
+  },
+  {
+    "question": "Christian and Maggie are concerned with teaching their children to act prosocially. Social learning psychologists would advise them to",
+    "choice1": "avoid reinforcing their children for tasks they already enjoy doing.",
+    "choice2": "begin prosocial modeling after the children turn 8 years old.",
+    "choice3": "keep their children isolated from antisocial models.",
+    "choice4": "make sure their own actions and words are consistent.",
+    "answer": 4
+  },
+  {
+    "question": "Experiments suggest that children exposed to a role model who says one thing and does another will",
+    "choice1": "talk in ways that contradict the model in order to match the observed behavior.",
+    "choice2": "ignore both the model does.",
+    "choice3": "ignore what the model says but act in ways consistent with what the model does.",
+    "choice4": "talk in ways consistent with what the model says and act in ways consistent with what the model does.",
+    "answer": 4
+  },
+  {
+    "question": "Researchers conditioned Mary to blink in response to a sound that signaled the delivery of a puff of air directed toward her face. In this application of classical conditioning, the sound was a",
+    "choice1": "UR.",
+    "choice2": "CS.",
+    "choice3": "US.",
+    "choice4": "NS.",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an example of biofeedback?",
+    "choice1": "Guy learns to stop crying after being rewarded with gold stars for bravery.",
+    "choice2": "Jane decides to work fewer hours after seeing a film linking stress with cancer.",
+    "choice3": "Kecia successfully quits smoking after her psychologist has her smoke so rapidly she cannot tolerate another cigarette.",
+    "choice4": "Milos learns to relax by being provided with information on changes in his heart rate.",
+    "answer": 4
+  },
+  {
+    "question": "Cleaning your bedroom so that you won't have to hear your parents nagging you about anymore is an example of",
+    "choice1": "punishment.",
+    "choice2": "conditioned reinforcers.",
+    "choice3": "negative reinforcement.",
+    "choice4": "partial reinforcement.",
+    "answer": 3
+  },
+  {
+    "question": "If a tone that regularly signals food triggers a salivation response, then a light that becomes associated with that tone may also begin to trigger salivation. This best illustrates",
+    "choice1": "a variable-ratio schedule.",
+    "choice2": "the law of effect.",
+    "choice3": "latent learning.",
+    "choice4": "higher-order conditioning.",
+    "answer": 4
+  },
+  {
+    "question": "We find it harder to frown when viewing a smile than when viewing a frown. This can most clearly be attributed to",
+    "choice1": "spontaneous recovery.",
+    "choice2": "positive reinforcement.",
+    "choice3": "partial reinforcement.",
+    "choice4": "mirror neurons.",
+    "answer": 4
+  },
+  {
+    "question": "A young child who is spanked after running into the street learns not to repeat this behavior. In this case, the spanking is a",
+    "choice1": "positive reinforcer.",
+    "choice2": "conditioned reinforce.",
+    "choice3": "negative reinforcer.",
+    "choice4": "positive punishment.",
+    "answer": 4
+  },
+  {
+    "question": "Two years ago, the de Castellane Manufacturing Company included its employees in a profit-sharing plan in which workers receive semi-annual bonuses based on the company's profits. Since this plan was initiated, worker productivity at de Castellane has nearly doubled. This productivity increase is best explained in terms of",
+    "choice1": "observational learning.",
+    "choice2": "latent learning.",
+    "choice3": "classical conditioning.",
+    "choice4": "operant conditioning.",
+    "answer": 4
+  },
+  {
+    "question": "When 4-year-old Michael hit his sister with a toy, his Mom took the toy away. This is considered",
+    "choice1": "positive reinforcement.",
+    "choice2": "negative reinforcement.",
+    "choice3": "continuous reinforcement.",
+    "choice4": "negative punishment.",
+    "answer": 4
+  },
+  {
+    "question": "In Pavlov's experiments, the dog's salivation triggered by the taste of food was a(n)",
+    "choice1": "conditioned response.",
+    "choice2": "neutral stimulus.",
+    "choice3": "conditioned stimulus.",
+    "choice4": "unconditioned response.",
+    "answer": 4
+  },
+  {
+    "question": "Compared with nonabused children, those who have experienced a history of abuse show a stronger brain-wave response to an unfamiliar but angry-looking face. This best illustrates",
+    "choice1": "the law of effect.",
+    "choice2": "shaping.",
+    "choice3": "negative reinforcement.",
+    "choice4": "generalization.",
+    "answer": 4
+  },
+  {
+    "question": "An executive in a computer software firm works with his office door closed. At the same time every hour he opens the door to see what his employees are doing. The employees have learned to work especially hard during the five minutes before and while the door is open. Their work pattern is typical of responses that are reinforced on a ________ schedule.",
+    "choice1": "fixed-ratio",
+    "choice2": "variable-interval",
+    "choice3": "fixed-interval",
+    "choice4": "partial-interval",
+    "answer": 3
+  },
+  {
+    "question": "In Pavlov's experiments, the dog's salivation triggered by the sound of the tone was a(n)",
+    "choice1": "unconditioned stimulus.",
+    "choice2": "conditioned response.",
+    "choice3": "unconditioned response.",
+    "choice4": "conditioned stimulus.",
+    "answer": 2
+  },
+  {
+    "question": "Researchers condition a flatworm to contract its body to a light by repeatedly pairing the light with electric shock. The stage in which the flatworm's contraction response to light is established and gradually strengthened is called",
+    "choice1": "spontaneous recovery.",
+    "choice2": "acquisition.",
+    "choice3": "generalization.",
+    "choice4": "latent learning.",
+    "answer": 2
+  },
+  {
+    "question": "The infant Albert developed a fear of rats after a white rat was associated with a loud noise. In this example, fear of the white rat was the",
+    "choice1": "SA.",
+    "choice2": "CS.",
+    "choice3": "CR.",
+    "choice4": "US.",
+    "answer": 3
+  },
+  {
+    "question": "Pavlov's research on classical conditioning was important because",
+    "choice1": "it highlighted the role of emotion in learning.",
+    "choice2": "it proved that all learning depends on reinforcement.",
+    "choice3": "it demonstrated that many different species of animals, including humans, can be conditioned to adopt new behaviors.",
+    "choice4": "it demonstrated that rewards were more effective than punishment.",
+    "answer": 3
+  },
+  {
+    "question": "A Skinner box is a(n)",
+    "choice1": "television projection device designed for use in laboratory studies of observational learning.",
+    "choice2": "“slot machine” used to study the effects of partial reinforcement on human gambling practices.",
+    "choice3": "aversive or punishing event that decreases the occurrence of certain undesirable behaviors.",
+    "choice4": "chamber containing a bar or key that an animal can manipulate to obtain a reward.",
+    "answer": 4
+  },
+  {
+    "question": "Revoking the driver's license of a reckless driver is intended to serve as a",
+    "choice1": "negative reinforcement.",
+    "choice2": "positive reinforcement.",
+    "choice3": "positive punishment.",
+    "choice4": "negative punishment.",
+    "answer": 4
+  },
+  {
+    "question": "A few months after being bitten by a stray dog, Alonzo found that his fear of dogs seemed to have disappeared. To his surprise, however, when he was recently confronted by a stray dog, he experienced a sudden twinge of anxiety. This sudden return of anxiety when encountering a dog best illustrates",
+    "choice1": "delayed reinforcement.",
+    "choice2": "discrimination.",
+    "choice3": "spontaneous recovery.",
+    "choice4": "latent learning.",
+    "answer": 3
+  }
+]

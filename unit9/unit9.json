@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Which branch of psychology is most directly concerned with the study of how people think about, influence, and relate to one another?",
+    "choice1": "personality psychology",
+    "choice2": "experimental psychology",
+    "choice3": "social psychology",
+    "choice4": "clinical psychology",
+    "answer": 3
+  },
+  {
+    "question": "According to Fritz Heider's attribution theory, people tend to attribute others' behavior either to their",
+    "choice1": "heredity or their environment.",
+    "choice2": "dispositions or their situations.",
+    "choice3": "thoughts or their emotions.",
+    "choice4": "biological motives or their psychological motives.",
+    "answer": 2
+  },
+  {
+    "question": "Ksana insists that her boyfriend's car accident resulted from his carelessness. Her explanation for the accident provides an example of",
+    "choice1": "the foot-in-the-door phenomenon.",
+    "choice2": "a dispositional attribution.",
+    "choice3": "ingroup bias.",
+    "choice4": "the bystander effect.",
+    "answer": 2
+  },
+  {
+    "question": "Caitlin concluded that her husband was late for dinner because he was caught in heavy traffic. Her conclusion best illustrates",
+    "choice1": "a dispositional attribution.",
+    "choice2": "deindividuation.",
+    "choice3": "a situational attribution.",
+    "choice4": "the reciprocity norm.",
+    "answer": 3
+  },
+  {
+    "question": "Rhonda has just learned that her neighbor Patricia was involved in an automobile accident at a nearby intersection. The tendency to make the fundamental attribution error may lead Rhonda to conclude",
+    "choice1": "“Patricia's brakes must have failed.”",
+    "choice2": "“Patricia's recklessness driving has finally gotten her into trouble.”",
+    "choice3": "“Patricia's children probably distracted her.”",
+    "choice4": "“The road must have been wet and slippery.”",
+    "answer": 2
+  },
+  {
+    "question": "The fundamental attribution error is most likely to lead observers to conclude that unemployed people",
+    "choice1": "attended schools that provided an inferior education.",
+    "choice2": "are victims of bad luck.",
+    "choice3": "are irresponsible and unmotivated.",
+    "choice4": "are victims of discrimination.",
+    "answer": 3
+  },
+  {
+    "question": "Instead of providing arguments in favor of a political candidate, ads may build political support by associating pictures of the candidate with emotion-evoking music and images. This strategy best illustrates",
+    "choice1": "central route persuasion.",
+    "choice2": "peripheral route persuasion.",
+    "choice3": "the social-responsibility norm.",
+    "choice4": "informational social influence.",
+    "answer": 2
+  },
+  {
+    "question": "Mark attended a public rally for a political candidate with whom he disagreed an several topics. The speaker was energetic and made eye contact with Mark several times while talking. Afterwards, Mark began thinking that maybe he had unfairly judged the candidate. Mark's opinion change seems to be resulting from incidental cues and is known as",
+    "choice1": "social facilitation.",
+    "choice2": "peripheral route persuasion.",
+    "choice3": "normative social influence.",
+    "choice4": "cognitive dissonance.",
+    "answer": 2
+  },
+  {
+    "question": "Jack recently watched a documentary about global warning. Although he had previously been skeptical of mankind's contribution to this phenomenon, after he considered the scientific information explained in the program, he reevaluated his position and in fact, changed his mind. This path to attitude change is known as",
+    "choice1": "central route persuasion.",
+    "choice2": "the foot-in-the-door phenomenon.",
+    "choice3": "normative social influence.",
+    "choice4": "the reciprocity norm.",
+    "answer": 1
+  },
+  {
+    "question": "When a salesperson visits your home and asks you to try a free sample of a cleaning fluid, you agree. When he returns the following week and asks you to purchase a trial size of cleaning products, you make the purchase. The salesperson will eventually work up to asking you to buy a year's supply of the cleaning products. The salesperson appears to have made effective use of",
+    "choice1": "the foot-in-the-door phenomenon.",
+    "choice2": "deindividuation.",
+    "choice3": "the bystander effect.",
+    "choice4": "the social responsibility norm.",
+    "answer": 1
+  },
+  {
+    "question": "The participants in Philip Zimbardo's simulated prison study",
+    "choice1": "were assigned the roles of prisoner or guard on the basis of their personality test scores.",
+    "choice2": "found it very difficult to play the role of prison guard.",
+    "choice3": "were so engrossed by their role-playing experience that some of them broke down, and the study was discontinued.",
+    "choice4": "became a cohesive unit when they pursued superordinate goals.",
+    "answer": 3
+  },
+  {
+    "question": "Studies of role-playing most directly highlight the effects that",
+    "choice1": "personal anonymity has on deindividuation.",
+    "choice2": "actions and role-playing can have on attitudes.",
+    "choice3": "altruism has on the bystander effect.",
+    "choice4": "an audience has on social facilitation.",
+    "answer": 2
+  },
+  {
+    "question": "Fernando's favorable attitude toward capital punishment began to change when he was asked to offer arguments opposing the death penalty in a class debate. His attitude change is best explained by ________ theory.",
+    "choice1": "cognitive dissonance",
+    "choice2": "scapegoat",
+    "choice3": "equity",
+    "choice4": "social exchange",
+    "answer": 1
+  },
+  {
+    "question": "During a test, Abe impulsively copied several answers from a nearby student's paper. He felt very uncomfortable about having done this until he convinced himself that copying answers was not wrong because his classmate should have not left her answer sheet exposed - it was not his fault that he could see it. Which theory best explains why Abe adopted this new attitude after justifying his actions?",
+    "choice1": "social exchange theory",
+    "choice2": "frustration-aggression theory",
+    "choice3": "cognitive dissonance theory",
+    "choice4": "two-factor theory",
+    "answer": 3
+  },
+  {
+    "question": "If a cluster of people stand gazing upward, passersby will often pause to do likewise. This best illustrates",
+    "choice1": "the bystander effect.",
+    "choice2": "the mere exposure effect.",
+    "choice3": "social facilitation.",
+    "choice4": "the chameleon effect.",
+    "answer": 4
+  },
+  {
+    "question": "Solomon Asch asked each member of a group of people to identify which of three comparison lines was identical to the standard line shown on a poster. His research illustrated the impact of __ on our behavior and thinking.",
+    "choice1": "conformity.",
+    "choice2": "bystander effect.",
+    "choice3": "social facilitation.",
+    "choice4": "deindividuation.",
+    "answer": 1
+  },
+  {
+    "question": "Naseeb disagrees with his classmates on the issue of gay rights. According to the results of Asch's conformity studies, Naseeb is MOST likely to conform to his classmates' opinion during a class discussion of the issue if he",
+    "choice1": "has a high level of self-esteem.",
+    "choice2": "never developed a strong attachment to his mother.",
+    "choice3": "believes the rest of the class is unanimous in their position.",
+    "choice4": "does not have to reveal his personal opinion at the close of the class discussion.",
+    "answer": 3
+  },
+  {
+    "question": "Yuri decided to delay his road trip after hearing a television weather forecasters warn that a severe snowstorm would pass through the area within several hours. Yuri's decision best illustrates the impact of",
+    "choice1": "the mere exposure effect.",
+    "choice2": "normative social influence.",
+    "choice3": "informational social influence.",
+    "choice4": "the reciprocity norm.",
+    "answer": 3
+  },
+  {
+    "question": "Ken hates to wear ties but wears one to his sister's wedding to avoid his family's disapproval and being different. Ken's behavior exemplifies the importance of",
+    "choice1": "the mere exposure effect.",
+    "choice2": "social facilitation.",
+    "choice3": "normative social influence.",
+    "choice4": "the reciprocity norm.",
+    "answer": 3
+  },
+  {
+    "question": "Participants in the Milgram obedience studies were ordered to",
+    "choice1": "write an essay supporting a position they didn't believe in.",
+    "choice2": "participate in a team tug-of-war by pulling on a rope as hard as they could.",
+    "choice3": "play the role of the prison guards.",
+    "choice4": "deliver electric shocks to a learner for giving incorrect answers.",
+    "answer": 4
+  },
+  {
+    "question": "The results of Milgram's initial obedience experiment were surprising because",
+    "choice1": "the “teachers” were more obedient than predicted.",
+    "choice2": "the “teachers” actually enjoyed shocking another person.",
+    "choice3": "the “teachers” so often refused to administer shocks.",
+    "choice4": "the “learners” obediently accepted painful shocks without any protest.",
+    "answer": 1
+  },
+  {
+    "question": "According to Milgram, the most fundamental lesson to be learned from his study of obedience is that",
+    "choice1": "we are most likely to conform to the opinions of others when faced with a unanimous opinion.",
+    "choice2": "people are naturally predisposed to be hostile and aggressive.",
+    "choice3": "people value their freedom and react negatively when they feel they are being coerced to do something.",
+    "choice4": "even ordinary people, who are not usually hostile, can become agents of destruction in order to obedient.",
+    "answer": 4
+  },
+  {
+    "question": "The gradually escalating levels of destructive obedience in the Milgram experiments best illustrate one of the potential dangers of",
+    "choice1": "the foot-in-the-door phenomenon.",
+    "choice2": "social facilitation.",
+    "choice3": "deindividuation.",
+    "choice4": "the bystander effect.",
+    "answer": 1
+  },
+  {
+    "question": "According to social facilitation phenomenon, the presence of observers affect a person's performance in which way?",
+    "choice1": "It improves performance on poorly learned tasks and hinders a person's performance on well-learned tasks.",
+    "choice2": "It improves performance on verbal tasks and hinders a person's performance on mathematical tasks.",
+    "choice3": "It improves performance on easy tasks and hinders a person's performance on difficult tasks.",
+    "choice4": "It improves performance on unenjoyable tasks and hinders a person's performance on enjoyable tasks.",
+    "answer": 3
+  },
+  {
+    "question": "After an exciting football game in which the home team loses by one point, some fans start throwing bottles and begin to tearing up the field and then others join in the chaos. This behavior is best understood in terms of",
+    "choice1": "the just-world phenomenon.",
+    "choice2": "the bystander effect.",
+    "choice3": "deindividuation.",
+    "choice4": "social facilitation.",
+    "answer": 3
+  },
+  {
+    "question": "Professors Maksoud, Struthers, and Vasic each tend to think that obtaining a university degree is easier today than it was when they were students. After discussing the matter over coffee, they are even more convinced that obtaining a degree is easier today. This episode provides an example of",
+    "choice1": "group polarization.",
+    "choice2": "deindividuation.",
+    "choice3": "social facilitation.",
+    "choice4": "the foot-in-the-door phenomenon.",
+    "answer": 1
+  },
+  {
+    "question": "A business CEO of a large company who welcomes a variety of opinions from subordinates and invites experts' critiques of her company's developing plans is most likely to avoid",
+    "choice1": "cognitive dissonance.",
+    "choice2": "social loafing.",
+    "choice3": "superordinate goals.",
+    "choice4": "groupthink.",
+    "answer": 4
+  },
+  {
+    "question": "Norms are best described as",
+    "choice1": "our deeply held beliefs about what is moral and ethical.",
+    "choice2": "rules for socially acceptable behavior.",
+    "choice3": "personality traits we inherit from our parents.",
+    "choice4": "buffer zones we like to maintain between ourselves and others.",
+    "answer": 2
+  },
+  {
+    "question": "Prejudice is a(n) ________; discrimination is a(n) ________.",
+    "choice1": "dispositional attribution; situational attribution",
+    "choice2": "ingroup bias; outgroup bias",
+    "choice3": "attitude; behavior",
+    "choice4": "role; norm",
+    "answer": 3
+  },
+  {
+    "question": "Six-year-old Eddie believes that boys are better than girls, while 5-year-old Ann believes that girls are better than boys. Their beliefs most clearly illustrate",
+    "choice1": "the reciprocity norm.",
+    "choice2": "ingroup bias.",
+    "choice3": "the mere exposure effect.",
+    "choice4": "the fundamental attribution error.",
+    "answer": 2
+  },
+  {
+    "question": "Following 9/11, some outraged people lashed out at innocent Arab-Americans. This venting of hostility can best be explained in terms of",
+    "choice1": "the bystander effect.",
+    "choice2": "the mere exposure effect.",
+    "choice3": "the just-world phenomenon.",
+    "choice4": "scapegoat theory.",
+    "answer": 4
+  },
+  {
+    "question": "When a newly immigrated Chinese student started school, he had a hard time distinguishing between and recognizing the faces of his white classmates. This tendency to recall faces of one's own race more accurately is known as",
+    "choice1": "the fundamental attribution error.",
+    "choice2": "normative social influences.",
+    "choice3": "the other-race effect.",
+    "choice4": "self-disclosure.",
+    "answer": 3
+  },
+  {
+    "question": "A willingness to believe that victims of a natural disaster are being punished by God for their sins or that the way a woman was dressed caused her to be raped best illustrates",
+    "choice1": "deindividuation.",
+    "choice2": "the just-world phenomenon.",
+    "choice3": "ingroup bias.",
+    "choice4": "the bystander effect.",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following persons is most clearly acting aggressively?",
+    "choice1": "an assertive salesperson who interrupts your evening meal with a telephone sales pitch",
+    "choice2": "a child who tries to hit another child with a rock",
+    "choice3": "a noisy neighbor who often mows his lawn at 8 o'clock on Saturday mornings",
+    "choice4": "a boxer working out alone and practicing her uppercut",
+    "answer": 2
+  },
+  {
+    "question": "After Manny's father refused to let him use the family car on Friday night, Manny let all the air out of the tires. His action is best explained in terms of the",
+    "choice1": "frustration-aggression principle.",
+    "choice2": "mere exposure effect.",
+    "choice3": "fundamental attribution error.",
+    "choice4": "bystander effect.",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is most likely NOT true of violent male criminals?",
+    "choice1": "They have relatively high levels of testosterone.",
+    "choice2": "They have relatively low levels of serotonin.",
+    "choice3": "They have relatively low levels of dopamine and testosterone.",
+    "choice4": "They have a Y chromosome.",
+    "answer": 3
+  },
+  {
+    "question": "Research on the relationship between aversive events and aggression indicates that",
+    "choice1": "aversive events lead to hostility in females but not in males.",
+    "choice2": "some individuals are more likely to be aggressive and commit aversive events.",
+    "choice3": "aversive events often distract people from acting on their hostile intentions.",
+    "choice4": "hot temperatures often lead people to react to provocations with greater hostility.",
+    "answer": 4
+  },
+  {
+    "question": "After watching a large number of violent pornographic movies, Ollie will probably be",
+    "choice1": "more likely to be more sensitive to the discrimination experienced by women.",
+    "choice2": "more likely to favor long prison sentences for convicted rapists.",
+    "choice3": "less likely to believe that women are seriously harmed by rape.",
+    "choice4": "less likely to believe that women enjoy aggressive sexual treatment from men.",
+    "answer": 3
+  },
+  {
+    "question": "Ostracism has been observed to intensify",
+    "choice1": "aggression.",
+    "choice2": "hindsight bias.",
+    "choice3": "conformity.",
+    "choice4": "deindividuation.",
+    "answer": 1
+  },
+  {
+    "question": "Minimal levels of father care are associated with high levels of",
+    "choice1": "aggression.",
+    "choice2": "conformity.",
+    "choice3": "discrimination.",
+    "choice4": "group polarization.",
+    "answer": 1
+  },
+  {
+    "question": "Parents who discipline their children with beatings are teaching ____ through the process of modeling.",
+    "choice1": "conformity.",
+    "choice2": "social facilitation.",
+    "choice3": "deindividuation.",
+    "choice4": "aggression.",
+    "answer": 4
+  },
+  {
+    "question": "A significant danger of media and video game violence is that impressionable viewers are subsequently more likely to",
+    "choice1": "be obedient and conform to social norms.",
+    "choice2": "be involved in community service due to the influence of the reciprocity norm.",
+    "choice3": "participate in social loafing.",
+    "choice4": "be primed for aggressive thoughts and behaviors.",
+    "answer": 4
+  },
+  {
+    "question": "Our first impressions of people we meet are most likely to be determined by their",
+    "choice1": "emotional intelligence.",
+    "choice2": "superordinate goals.",
+    "choice3": "physical appearance.",
+    "choice4": "intelligence.",
+    "answer": 3
+  },
+  {
+    "question": "According to research on the psychology of attraction, Vince, an extraverted university freshman, has just moved into a dormitory. Due to the mere exposure effect, Vince is most likely to become friends with",
+    "choice1": "Mohammed, an introverted student who lives on the next floor and enjoys playing chess.",
+    "choice2": "James, a lonely sophomore who lives down the hall and is undecided about his major.",
+    "choice3": "Alfonse, a junior who is majoring in psychology and lives across the hall.",
+    "choice4": "Bill, his assigned roommate who is majoring in computer science.",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is most clearly supported by research on social attraction?",
+    "choice1": "Absence makes the heart grow fonder.",
+    "choice2": "The beautiful are the lonely.",
+    "choice3": "Familiarity breeds contempt.",
+    "choice4": "Birds of a feather flock together.",
+    "answer": 4
+  },
+  {
+    "question": "Equity and self-disclosure are important to the development of",
+    "choice1": "groupthink.",
+    "choice2": "ingroup bias.",
+    "choice3": "companionate love.",
+    "choice4": "social facilitation.",
+    "answer": 3
+  },
+  {
+    "question": "Following the 9/11 terrorist attack on New York, people across the country donated their time and money to assist the devastated community. This behavior best illustrates",
+    "choice1": "the just-world phenomenon.",
+    "choice2": "deindividuation.",
+    "choice3": "social exchange theory.",
+    "choice4": "altruism.",
+    "answer": 4
+  },
+  {
+    "question": "In an experiment, most university students failed to help a person having an epileptic seizure when they thought there were four other witnesses to the emergency. The students' feeling of limited responsibility and failure to help is best explained in terms of",
+    "choice1": "social facilitation.",
+    "choice2": "the ingroup bias.",
+    "choice3": "the bystander effect.",
+    "choice4": "self-serving bias.",
+    "answer": 3
+  },
+  {
+    "question": "Melissa regularly donates blood to an international blood bank simply because she believes she ought to help anyone with a medical need for a blood transfusion. Melissa's altruism best illustrates the impact of",
+    "choice1": "the ingroup bias.",
+    "choice2": "the reciprocity norm.",
+    "choice3": "the social-responsibility norm.",
+    "choice4": "the bystander effect.",
+    "answer": 3
+  },
+  {
+    "question": "Two classmates ask you to spend a couple of hours helping them prepare for a chemistry test. According to social exchange theory, you would be most likely to help them if",
+    "choice1": "you know that someone else helped them prepare for an earlier test.",
+    "choice2": "your parents helped you study for tests when you were younger.",
+    "choice3": "you know you would feel terribly guilty for refusing their request.",
+    "choice4": "your classmates are slow learners who really need your help.",
+    "answer": 3
+  },
+  {
+    "question": "Employees who receive a windfall bonus are later happier if they have done something for other people with it. This suggests that altruism is",
+    "choice1": "a just-world phenomenon.",
+    "choice2": "a social-responsibility norm.",
+    "choice3": "a bystander effect.",
+    "choice4": "intrinsically rewarding.",
+    "answer": 4
+  },
+  {
+    "question": "The country of Superlia increased the size of its military force because its leaders inappropriately anticipated that their rival, the country of Piropia, would do the same. The Piropians subsequently felt it was necessary to respond to the Superlian military buildup with a military expansion of their own. The Piropian response best illustrates the danger of",
+    "choice1": "social facilitation.",
+    "choice2": "the mere exposure effect.",
+    "choice3": "the foot-in-the-door phenomenon.",
+    "choice4": "self-fulfilling prophecies.",
+    "answer": 4
+  },
+  {
+    "question": "After the Greenway family accepted their neighbor's invitation to Thanksgiving dinner, Mrs. Greenway felt obligated to invite the neighbors to Christmas dinner. Mrs. Greenway's sense of obligation most likely resulted from the",
+    "choice1": "reciprocity norm.",
+    "choice2": "mere exposure effect.",
+    "choice3": "ingroup bias.",
+    "choice4": "foot-in-the-door phenomenon.",
+    "answer": 1
+  },
+  {
+    "question": "Psychologists describe shared goals that override differences among people and require their cooperation as",
+    "choice1": "superordinate.",
+    "choice2": "implicit.",
+    "choice3": "companionate.",
+    "choice4": "deindividuated.",
+    "answer": 1
+  },
+  {
+    "question": "A sincere word of apology often helps to reduce the tension between two conflicting parties. This best illustrates the value of",
+    "choice1": "self-disclosure.",
+    "choice2": "groupthink.",
+    "choice3": "social facilitation.",
+    "choice4": "conciliation.",
+    "answer": 4
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "question": "Encoding that occurs with no effort or a minimal level of conscious attention is known as",
+    "choice1": "recall.",
+    "choice2": "long-term potentiation.",
+    "choice4": "state-dependent memory.",
+    "choice3": "automatic processing.",
+    "answer": 3
+  },
+  {
+    "question": "An Asian visitor to the United States asked a taxi driver, “Can you please a ride to the hotel me give?” This visitor has apparently not yet mastered the ________ of the English langu",
+    "choice1": "syntax",
+    "choice2": "nomenclature",
+    "choice3": "phonemes",
+    "choice4": "semantics",
+    "answer": 1
+  },
+  {
+    "question": "Long-term potentiation refers to",
+    "choice1": "the process of learning something without any conscious memory of having learned it.",
+    "choice2": "the impact of overlearning on retention.",
+    "choice3": "an increase in the synaptic firing of neurons during learning.",
+    "choice4": "the relatively permanent and limitless storehouse of the memory system.",
+    "answer": 3
+  },
+  {
+    "question": "Recorded information played during sleep is registered by the ears but is not remembered. This illustrates that the retention of information requires",
+    "choice1": "chunking.",
+    "choice2": "proactive interference.",
+    "choice3": "state-dependent memory.",
+    "choice4": "effortful processing.",
+    "answer": 4
+  },
+  {
+    "question": "Repression of sexual abuse and motivated forgetting of gambling losses most clearly involve a failure in",
+    "choice1": "retrieval.",
+    "choice2": "encoding.",
+    "choice3": "iconic memory.",
+    "choice4": "long-term potentiation.",
+    "answer": 1
+  },
+  {
+    "question": "The inability to remember how Lincoln's head appears on a penny is most likely due to a failure in",
+    "choice1": "retrieval.",
+    "choice3": "implicit memory.",
+    "choice4": "iconic memory.",
+    "choice2": "encoding.",
+    "answer": 2
+  },
+  {
+    "question": "Peterson and Peterson asked people to count aloud backward after they were presented with three consonants. This study found that ________ memories have a limited duration without active processing and rehearsal.",
+    "choice1": "flashbulb",
+    "choice3": "long-term",
+    "choice4": "mood-congruent",
+    "choice2": "short-term",
+    "answer": 2
+  },
+  {
+    "question": "Participants in one experiment were given entirely fabricated accounts of an occasion in which they had been lost in a shopping mall during their childhood. Many of these participants later falsely recollected vivid details of the experience as having actually occurred. This experiment best illustrated",
+    "choice1": "the self-reference effect.",
+    "choice2": "the spacing effect.",
+    "choice3": "proactive interference.",
+    "choice4": "the misinformation effect.",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following best illustrates psychology's current understanding of the relationship between thinking and language?",
+    "choice1": "All thinking must be language-based.",
+    "choice3": "Language is the sole factor in determining our other cognitive processes.",
+    "choice4": "Thought and language are unrelated.",
+    "choice2": "Thinking affects language, which then affects our thoughts.",
+    "answer": 2
+  },
+  {
+    "question": "Odessa sold many more raffle tickets when she told potential buyers they had a 10 percent chance of winning a prize than when she told them they had a 90 percent chance of not winning. This best illustrates",
+    "choice1": "the framing effect.",
+    "choice2": "the belief perseverance phenomenon.",
+    "choice3": "confirmation bias.",
+    "choice4": "the representativeness heuristic.",
+    "answer": 1
+  },
+  {
+    "question": "The smell of freshly baked bread awakened in Mr. Hutz vivid memories of his early childhood. The aroma apparently acted as a powerful",
+    "choice1": "spacing effect.",
+    "choice3": "implicit memory.",
+    "choice4": "echoic memory.",
+    "choice2": "retrieval cue.",
+    "answer": 2
+  },
+  {
+    "question": "Group 1 is asked to write down the names of the seven dwarfs. Group 2 is asked to look at a list of possible names of the dwarfs and circle the correct seven. Why might Group 2 be more likely to recall more names?",
+    "choice1": "Implicit memories are easier to recall than explicit memories are.",
+    "choice2": "Source amnesia may interfere with Group 1's ability to recall the names of the dwarfs.",
+    "choice3": "Proactive interference is less likely to affect childhood learning.",
+    "choice4": "Group 2's list provides more retrieval cues, making this recognition task easier for them than the recall task assigned to Group 1.",
+    "answer": 4
+  },
+  {
+    "question": "How many phonemes are in the word “ship”?",
+    "choice1": "4",
+    "choice2": "0",
+    "choice3": "1",
+    "choice4": "3",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following would be most characteristic of a 2-year-old's telegraphic speech?",
+    "choice1": "“want juice”",
+    "choice2": "“daddy funny”",
+    "choice3": "“ball bouncy”",
+    "choice4": "“apple eat”",
+    "answer": 1
+  },
+  {
+    "question": "After learning the combination for his new locker at school, Milton is unable to remember the old combination Milton is experiencing the effects of",
+    "choice1": "retroactive interference.",
+    "choice2": "encoding failure.",
+    "choice3": "proactive interference.",
+    "choice4": "automatic processing.",
+    "answer": 1
+  },
+  {
+    "question": "As he attempted to spell the word “perceive,” Tom reminded himself “i before e except after c.” Tom's self-reminder best illustrates the use of",
+    "choice1": "a heuristic.",
+    "choice2": "confirmation bias.",
+    "choice3": "trial and error.",
+    "choice4": "insight.",
+    "answer": 1
+  },
+  {
+    "question": "Ebbinghaus' storage decay \"forgetting curve\" shows that the rate at which we forget learned information is",
+    "choice1": "a continuous steady loss but with increased loss occurring as time passes.",
+    "choice3": "based on the age at which the information was learned.",
+    "choice4": "slow loss at first but more quickly as time passes.",
+    "choice2": "rapid loss at first but the rate levels off after the initial loss.",
+    "answer": 2
+  },
+  {
+    "question": "The vague statement, “Arrange the items into different groups before and after the procedure,” becomes easier to understand and recall when the same sentence is given the heading: “Doing Laundry.” This best illustrates the influence of",
+    "choice1": "semantic encoding.",
+    "choice2": "long term potentiation.",
+    "choice3": "acousitc encoding.",
+    "choice4": "parallel processing.",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best describes the position of many current researchers regarding repression?",
+    "choice1": "The activity of the hippocampus leads to repression.",
+    "choice2": "Repression rarely occurs as it is difficult to forget emotional material.",
+    "choice3": "Repressed memories, once out of consciousness, are not harmful.",
+    "choice4": "Only implicit memories are repressed into unconsciousness.",
+    "answer": 2
+  },
+  {
+    "question": "Research suggests that humans can most easily master the grammar of a second language during",
+    "choice1": "retirement.",
+    "choice3": "early adulthood.",
+    "choice4": "the first year of life.",
+    "choice2": "childhood.",
+    "answer": 2
+  },
+  {
+    "question": "Walking into your bedroom you think, “I need to get my backpack in the kitchen.” When you reach the kitchen, you forget what you came there for. As you return to your bedroom, you suddenly remember, “Backpack!” This sudden recall is best explained by",
+    "choice1": "the misinformation effect.",
+    "choice2": "context effects.",
+    "choice3": "semantic encoding.",
+    "choice4": "flashbulb memory formation.",
+    "answer": 2
+  },
+  {
+    "question": "The value of generating positive first impressions in your initial interactions with a new employer in order to create create a lasting positive impression is best underscored by the research on",
+    "choice1": "belief perseverance.",
+    "choice2": "algorithms.",
+    "choice3": "imaginative thinking skills.",
+    "choice4": "functional fixedness.",
+    "answer": 1
+  },
+  {
+    "question": "Experienced EMS workers are often able to size up the extent of multiple injuries at an accident scene and make decisions about which injuries need to most immediate attention. Their acquired expertise is such an automatic habit that it feels like",
+    "choice1": "an algorithm.",
+    "choice3": "semantics.",
+    "choice4": "telegraphic speech.",
+    "choice2": "intuition.",
+    "answer": 2
+  },
+  {
+    "question": "Dr. Bright's patient was complaining of feeling worthless, lethargic, and uninterested in typically enjoyable activities. Dr. Bright simply matched those few symptoms with the textbook definition of depression and diagnosed the patient as depressed. However, her diagnosis may be incorrect as she may be ignoring other pertinent information. Dr. Bright's potential misdiagnosis is likely due to which of the following?",
+    "choice1": "the representativeness heuristic",
+    "choice2": "the availability heuristic",
+    "choice3": "functional fixedness",
+    "choice4": "trial and error",
+    "answer": 1
+  },
+  {
+    "question": "Storage decay that causes us to forget information is illustrated by the famous Ebbinghaus forgetting curve that shows how well we remember information depends on",
+    "choice1": "whether the information is part of our implicit or explicit memory.",
+    "choice2": "how long ago we learned that information.",
+    "choice3": "the nature of our mood during encoding and retrieval.",
+    "choice4": "whether proactive interference occurred.",
+    "answer": 2
+  },
+  {
+    "question": "Jack cites his cousin Lynn's many car accidents as evidence that women are worse drivers than men. He overlooks the fact that his wife and three daughters have had far fewer car accidents than he and his two sons. Jack's prejudicial conclusion about women's driving skills best illustrates the effects of",
+    "choice1": "the framing effect.",
+    "choice2": "algorithms.",
+    "choice3": "confirmation bias.",
+    "choice4": "functional fixedness.",
+    "answer": 3
+  },
+  {
+    "question": "In middle school and high school, Chuck got away with copying his test answers from classmates. Because the college has test proctors who are very observant, Chuck spends as many hours devising new ways to cheat as it would take him to study and perform well in an honest fashion. Chuck's strategy for passing tests illustrates the consequences of",
+    "choice1": "expertise.",
+    "choice3": "the framing effect.",
+    "choice4": "insight.",
+    "choice2": "a mental set.",
+    "answer": 2
+  },
+  {
+    "question": "On the telephone, Dominic rattles off a list of 10 grocery items for Kyoko to bring home from the store. Immediately after hearing the list, Kyoko attempts to write down the items. Due to the serial position effect, she is most likely to forget the items",
+    "choice1": "at the beginning of the list.",
+    "choice2": "at the end of the list.",
+    "choice4": "at the middle and the end of the list.",
+    "choice3": "in the middle of the list.",
+    "answer": 3
+  },
+  {
+    "question": "Because she believes that boys are naughtier than girls, Mrs. Zinnia, a second-grade teacher, watches boys more closely than she watches girls for any signs of misbehavior and consequently \"catches\" more boys misbehaving than girls. Mrs. Zinnia's surveillance strategy best illustrates",
+    "choice1": "overconfidence.",
+    "choice2": "trial and error.",
+    "choice4": "the framing effect.",
+    "choice3": "confirmation bias.",
+    "answer": 3
+  },
+  {
+    "question": "After learning that her two best friends had lost their jobs, Megan began to grossly overestimate the national unemployment rate. Megan's reaction best illustrates the consequences of",
+    "choice1": "the availability heuristic.",
+    "choice2": "using algorithms.",
+    "choice3": "the framing effect.",
+    "choice4": "insight.",
+    "answer": 1
+  },
+  {
+    "question": "Austin can't remember Jack Smith's name because he wasn't paying attention when Jack was formally introduced. Austin's poor memory is best explained in terms of",
+    "choice1": "proactive interference.",
+    "choice2": "source amnesia.",
+    "choice3": "retroactive interference.",
+    "choice4": "encoding failure.",
+    "answer": 4
+  },
+  {
+    "question": "Kenny did not know whether the locker room was located down the short hallway to his right or down the long hallway to his left. Crossing his fingers, he decided to try the short hallway. His problem strategy best illustrates",
+    "choice1": "algorithm.",
+    "choice2": "functional fixedness.",
+    "choice3": "trial and error.",
+    "choice4": "belief perseverance.",
+    "answer": 3
+  },
+  {
+    "question": "During the course of a day, people may unconsciously encode the sequence of the day's events. This best illustrates",
+    "choice1": "automatic processing.",
+    "choice2": "the spacing effect.",
+    "choice3": "rosy retrospection.",
+    "choice4": "echoic memory.",
+    "answer": 1
+  },
+  {
+    "question": "Most Americans have flashbulb memories of the 9/11 terrorist attacks in 2001. This best illustrates that memory formation is facilitated by",
+    "choice1": "stress or emotion that causes release of hormones.",
+    "choice2": "retrieval cues.",
+    "choice3": "source amnesia.",
+    "choice4": "long-term potentiation.",
+    "answer": 1
+  },
+  {
+    "question": "It has been suggested that Alaskan Eskimos' rich vocabulary for describing snow enables them to perceive differences in snow conditions that otherwise go unnoticed in cultures that do not have words to describe snow in many ways. This suggestion most clearly illustrates",
+    "choice1": "inborn universal grammar.",
+    "choice2": "the representativeness heuristic.",
+    "choice3": "linguistic determinism.",
+    "choice4": "the framing effect.",
+    "answer": 3
+  },
+  {
+    "question": "In an effort to remember how to spell “rhinoceros,” Samantha spells the word aloud 30 times. She is using a technique known as",
+    "choice1": "priming.",
+    "choice2": "rehearsal.",
+    "choice3": "chunking.",
+    "choice4": "the peg-word system.",
+    "answer": 2
+  },
+  {
+    "question": "By shrinking the hippocampus, prolonged stress is most likely to corrode neural connections and interfere with the process of",
+    "choice1": "storing mood-congruent memories.",
+    "choice2": "forming long-term explicit memories.",
+    "choice3": "repressing childhood memories.",
+    "choice4": "retrieving memories stored in the amygdala.",
+    "answer": 2
+  },
+  {
+    "question": "Arnold so easily remembers his old girlfriend's telephone number that he finds it difficult to recall his new girlfriend's number. Arnold's difficulty best illustrates",
+    "choice1": "retroactive interference.",
+    "choice2": "priming.",
+    "choice3": "source amnesia.",
+    "choice4": "proactive interference.",
+    "answer": 4
+  },
+  {
+    "question": "Tim, a third-grader, learns the sentence “George Eats Old Gray Rats And Paints Houses Yellow” to help him remember the spelling of “geography.” Tim is using",
+    "choice1": "the spacing effect.",
+    "choice2": "a mnemonic device.",
+    "choice3": "priming.",
+    "choice4": "the serial position effect.",
+    "answer": 2
+  },
+  {
+    "question": "The process of getting information out of memory is called",
+    "choice1": "rehearsal.",
+    "choice2": "priming.",
+    "choice3": "retrieval.",
+    "choice4": "encoding.",
+    "answer": 3
+  },
+  {
+    "question": "A chess-playing computer program that routinely calculates all possible outcomes of all possible game moves best illustrates problem solving by means of",
+    "choice1": "the availability heuristic.",
+    "choice2": "trial and error.",
+    "choice3": "an algorithm.",
+    "choice4": "insight.",
+    "answer": 3
+  },
+  {
+    "question": "When Bryan's girlfriend broke up with him, he felt very down. As he sat in his bedroom, he thought about all of the other times his heart had been broken. Bryan's experience provides an example of",
+    "choice1": "long-term potentiation.",
+    "choice2": "retroactive interference.",
+    "choice4": "iconic memory.",
+    "choice3": "mood-congruent memory.",
+    "answer": 3
+  },
+  {
+    "question": "Repeating someone's name several times shortly after being introduced to that person is an effective strategy for",
+    "choice1": "rehearsal.",
+    "choice2": "implicit memory.",
+    "choice3": "automatic processing.",
+    "choice4": "chunking.",
+    "answer": 1
+  },
+  {
+    "question": "Miss James is orderly, neat, fairly quiet, and shy. She enjoys reading in her spare time and belongs to a book club that includes three librarians, nine real estate agents, and eight reporters. A tendency to conclude that Miss James must be one of the three librarians would illustrate the powerful influence of",
+    "choice1": "trial and error.",
+    "choice2": "the framing effect.",
+    "choice4": "linguistic determination.",
+    "choice3": "the representativeness heuristic.",
+    "answer": 3
+  },
+  {
+    "question": "In the words “slightly,” “happily,” and “quickly,” the “ly” ending is a(n)",
+    "choice1": "morpheme.",
+    "choice2": "syntax.",
+    "choice3": "phoneme.",
+    "choice4": "prototype.",
+    "answer": 1
+  },
+  {
+    "question": "The earliest stage of speech development begins around 4 months and is called the ________ stage.",
+    "choice1": "telegraphic speech",
+    "choice2": "semantic",
+    "choice3": "babbling",
+    "choice4": "one-word",
+    "answer": 3
+  },
+  {
+    "question": "Remembering how to solve a jigsaw puzzle or how to ride a bike without any conscious recollection that one can do so best illustrates ________ memory.",
+    "choice1": "explicit",
+    "choice2": "semantic",
+    "choice3": "flashbulb",
+    "choice4": "implicit",
+    "answer": 4
+  },
+  {
+    "question": "An eyewitness to a grocery store robbery is asked to identify the suspects in a police lineup. Which test of memory is being utilized?",
+    "choice1": "relearning",
+    "choice2": "reconstruction",
+    "choice4": "recall",
+    "choice3": "recognition",
+    "answer": 3
+  },
+  {
+    "question": "Memory aids that involve the use of vivid imagery and clever ways of organizing material are called",
+    "choice1": "organizational cues.",
+    "choice2": "mnemonic devices.",
+    "choice3": "semantic techniques.",
+    "choice4": "flashbulb memories.",
+    "answer": 2
+  },
+  {
+    "question": "When John applied for a driver's license, he was embarrassed by a momentary inability to remember his address. John's memory difficulty most likely resulted from a(n) ________ failure.",
+    "choice1": "retrieval",
+    "choice2": "rehearsal",
+    "choice3": "storage",
+    "choice4": "encoding",
+    "answer": 1
+  },
+  {
+    "question": "Careers that require creativity are likely to appeal to someone that has all the following characteristics EXCEPT",
+    "choice1": "motivated by extrinsic rewards such as money and fame.",
+    "choice2": "seeks new experiences, risks, and adventure.",
+    "choice3": "driven by challenge and a sense of satisfaction.",
+    "choice4": "a well developed base of knowledge in their field.",
+    "answer": 1
+  },
+  {
+    "question": "Because Keith is 6'6\", people often mistakenly assume that he must be a member of his high school basketball team. This mistaken judgment best illustrates the impact of",
+    "choice1": "the representativeness heuristic.",
+    "choice2": "algorithms.",
+    "choice3": "insight.",
+    "choice4": "the availability heuristic.",
+    "answer": 1
+  },
+  {
+    "question": "Jamille performs better on foreign language vocabulary tests if she studies the material 15 minutes every day for 8 days than if she crams for 2 hours the night before the test. This illustrates what is known as",
+    "choice1": "mood-congruent memory.",
+    "choice2": "the spacing effect.",
+    "choice3": "the serial position effect.",
+    "choice4": "chunking.",
+    "answer": 2
+  },
+  {
+    "question": "Students routinely underestimate how much time it will take them to complete assigned course projects because they believe they can accomplish the task with ease. This best illustrates the impact of",
+    "choice1": "framing.",
+    "choice2": "functional fixedness.",
+    "choice4": "mental set.",
+    "choice3": "overconfidence.",
+    "answer": 3
+  },
+  {
+    "question": "We can encode many sensory experiences simultaneously, some automatically, because of which property of the brain?",
+    "choice1": "parallel processing",
+    "choice2": "long-term potentiation",
+    "choice3": "priming",
+    "choice4": "serial position effect",
+    "answer": 1
+  },
+  {
+    "question": "Telegraphic speech is most closely associated with the ________ stage of language development.",
+    "choice1": "two-word",
+    "choice2": "semantic",
+    "choice3": "phonetic",
+    "choice4": "babbling",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best illustrates confirmation bias?",
+    "choice1": "Ben believes he is an outstanding driver, although most people are average.",
+    "choice2": "Jenny refuses to fly after seeing a news story about a recent plane crash.",
+    "choice3": "A radio advertisement for a local restaurant claims its hamburgers are made with 80 percent lean ground beef instead of saying 20 percent fat.",
+    "choice4": "Asked to write an opinion paper on the death penalty, Marsha primarily searches for evidence that supports her opposition to the practice.",
+    "answer": 4
+  },
+  {
+    "question": "Shortly after you see a missing-child poster you are more likely to interpret an ambiguous adult-child interaction as a possible kidnapping. This best illustrates the impact of",
+    "choice1": "chunking.",
+    "choice2": "peg word system.",
+    "choice3": "state-dependent memory.",
+    "choice4": "priming.",
+    "answer": 4
+  },
+  {
+    "question": "Cognitive psychologists are most directly concerned with the study of",
+    "choice1": "thinking.",
+    "choice2": "brain chemistry.",
+    "choice3": "the unconscious.",
+    "choice4": "genetics.",
+    "answer": 1
+  },
+  {
+    "question": "Your ability to immediately recognize the voice over the phone as your mother's illustrates the value of",
+    "choice1": "acoustic encoding.",
+    "choice2": "chunking.",
+    "choice3": "implicit memory.",
+    "choice4": "the spacing effect.",
+    "answer": 1
+  },
+  {
+    "question": "After spending two hours trying to solve an engineering problem, Amy finally gave up. As she was trying to fall asleep that night, a solution to the problem popped into her head. Amy's experience best illustrates",
+    "choice1": "the framing effect.",
+    "choice2": "the availability heuristic.",
+    "choice3": "insight.",
+    "choice4": "a mental set.",
+    "answer": 3
+  },
+  {
+    "question": "Despite overwhelming and highly publicized evidence that Senator McHenry was guilty of serious political corruption and misconduct, many who had supported her in past elections remained convinced of her political integrity. Their reaction best illustrates",
+    "choice1": "functional fixedness.",
+    "choice2": "mental set.",
+    "choice3": "insight.",
+    "choice4": "belief perseverance.",
+    "answer": 4
+  },
+  {
+    "question": "During her psychology test, Kelsey could not remember the meaning of the term proactive interference. Surprisingly, however, she accurately remembered that the term appeared on the fourth line of a left-hand page in her textbook. Her memory of this incidental information is best explained in terms of",
+    "choice1": "the automatic processing of space/place.",
+    "choice2": "relearning.",
+    "choice3": "priming.",
+    "choice4": "the serial position effect.",
+    "answer": 1
+  },
+  {
+    "question": "Which type of memory has an essentially unlimited capacity?",
+    "choice1": "iconic memory",
+    "choice2": "echoic memory",
+    "choice3": "proactive memory",
+    "choice4": "long-term memory",
+    "answer": 4
+  },
+  {
+    "question": "Scientists are trained to carefully observe and record any research outcomes that are inconsistent with their hypotheses. This practice most directly serves to reduce",
+    "choice1": "the framing effect.",
+    "choice2": "algorithms.",
+    "choice3": "confirmation bias.",
+    "choice4": "algorithms.",
+    "answer": 3
+  },
+  {
+    "question": "You are most likely to automatically encode information about",
+    "choice1": "friends' birthdays.",
+    "choice2": "politicians' names.",
+    "choice3": "dates in a history book.",
+    "choice4": "how many times you called someone before they answered.",
+    "answer": 4
+  },
+  {
+    "question": "The finding that people who sleep after learning a list of nonsense syllables forget less than people who stay awake provides evidence that forgetting may involve",
+    "choice1": "motivated forgetting.",
+    "choice2": "repression.",
+    "choice3": "implicit memory loss.",
+    "choice4": "interference.",
+    "answer": 4
+  },
+  {
+    "question": "Visually associating five items needed from the grocery store with mental images of a bun, a shoe, a tree, a door, and a hive best illustrates the use of",
+    "choice1": "serial position effect.",
+    "choice2": "the peg-word system.",
+    "choice3": "implicit memory.",
+    "choice4": "rosy retrospection.",
+    "answer": 2
+  },
+  {
+    "question": "Margie forgot to bring a pillow on the camping trip, so she spent a very uncomfortable and restless night. Unfortunately, she never thought of using her down-filled jacket as a pillow. Margie's oversight best illustrates",
+    "choice1": "confirmation bias.",
+    "choice2": "the availability heuristic.",
+    "choice3": "functional fixedness.",
+    "choice4": "overconfidence.",
+    "answer": 3
+  },
+  {
+    "question": "James took special classes to learn Spanish in elementary school. As a young adult, he decided to serve in the Peace Corps and was sent to Guatemala. While he had forgotten most of his early Spanish training, he quickly remembered it. This illustrates that",
+    "choice1": "priming causes us to forget specific memories from a web of associations.",
+    "choice2": "semantic encoding increases what can be recalled by providing more retrieval cues.",
+    "choice3": "source amnesia does not influence learning that occurs before a person is 8 years old.",
+    "choice4": "the speed of relearning confirms that information is stored and accessible.",
+    "answer": 4
+  },
+  {
+    "question": "The address for obtaining tickets to a popular quiz show flashes on the TV screen, but the image disappears before Sergei has had a chance to write down the complete address. To his surprise, however, he has retained a momentary mental image of the five-digit zip code. His experience best illustrates ________ memory.",
+    "choice1": "state-dependent",
+    "choice2": "iconic",
+    "choice3": "echoic",
+    "choice4": "implicit",
+    "answer": 2
+  },
+  {
+    "question": "When an eyewitness to an auto accident is asked to describe what happened, which test of memory is being used?",
+    "choice1": "reconstruction",
+    "choice2": "recognition",
+    "choice3": "rehearsal",
+    "choice4": "recall",
+    "answer": 4
+  },
+  {
+    "question": "When someone mentions Ivy League colleges, Trisha immediately thinks of Harvard University. In this instance, Harvard University is a",
+    "choice1": "intrinsic motivation.",
+    "choice2": "algorithm.",
+    "choice3": "framing.",
+    "choice4": "prototype.",
+    "answer": 4
+  },
+  {
+    "question": "Rephrasing text material in your own words is an effective way of facilitating",
+    "choice1": "semantic encoding.",
+    "choice2": "implicit memory.",
+    "choice3": "proactive interference.",
+    "choice4": "mood-congruent memory.",
+    "answer": 1
+  },
+  {
+    "question": "The numbers 1, 1, 1, 2, 6, 7, 7, 8 are presented. Jill remembers them by rearranging them to 1776 and 1812. This provides an illustration of",
+    "choice1": "the “peg-word” system.",
+    "choice2": "automatic processing.",
+    "choice4": "the serial position effect.",
+    "choice3": "chunking.",
+    "answer": 3
+  },
+  {
+    "question": "Upon seeing the tear in my new pants, I shed a tear. The fact that you can recognize two different meanings for the word “tear” in the preceding sentence demonstrates the importance of",
+    "choice1": "prototypes.",
+    "choice2": "morphemes.",
+    "choice3": "semantics.",
+    "choice4": "telegraphic speech.",
+    "answer": 3
+  },
+  {
+    "question": "The relatively permanent and limitless storehouse of the memory system is called ________ memory.",
+    "choice1": "sensory",
+    "choice2": "state-dependent",
+    "choice3": "implicit",
+    "choice4": "long-term",
+    "answer": 4
+  },
+  {
+    "question": "Twenty-five-year-old Alexandra is mentally handicapped and can neither read nor write. However, after hearing lengthy, unfamiliar, and complex musical selections just once, she can reproduce them precisely on the piano. It is likely that Alexandra is",
+    "choice2": "above average in her capacity for inductive reasoning.",
+    "choice3": "high in linguistic intelligence.",
+    "choice4": "demonstrating a high level of emotional intelligence.",
+    "choice1": "someone with savant syndrome.",
+    "answer": 1
+  },
+  {
+    "question": "When Brandon was told that he correctly answered 80 percent of the items on a math achievement test, he asked how his performance compared with that of the average test-taker. Brandon's concern was directly related to the issue of",
+    "choice1": "factor analysis.",
+    "choice2": "content validity.",
+    "choice3": "standardization.",
+    "choice4": "predictive validity.",
+    "answer": 3
+  },
+  {
+    "question": "Your psychology teacher has announced that the next test will assess your understanding of sensation and perception. When you receive the test, however, you find that very few questions actually relate to these topics. In this instance, you would be most concerned about the ________ of the test.",
+    "choice1": "validity",
+    "choice2": "factor analysis",
+    "choice3": "reliability",
+    "choice4": "normal distribution",
+    "answer": 1
+  },
+  {
+    "question": "A test is reliable if it",
+    "choice1": "has been standardized on a representative sample of all those who are likely to take the test.",
+    "choice2": "yields dependably consistent scores.",
+    "choice3": "samples the behavior that is being assessed.",
+    "choice4": "measures what it claims to measure or predicts what it is supposed to predict.",
+    "answer": 2
+  },
+  {
+    "question": "Experts would most likely agree that intelligence is",
+    "choice2": "a multiple array of completely independent adaptive traits.",
+    "choice3": "an inborn ability to perform well on standard intelligence tests.",
+    "choice4": "a general trait that underlies success on nearly any task.",
+    "choice1": "a mental ability to learn from experience, solve problems, and use knowledge to adapt.",
+    "answer": 1
+  },
+  {
+    "question": "Research on racial and ethnic differences in intelligence indicates that",
+    "choice1": "among American Blacks, those with African ancestry receive the highest intelligence test scores.",
+    "choice2": "the Black-White difference in SAT scores has increased since 1979.",
+    "choice3": "desegregation has actually decreased the academic achievement of black American children.",
+    "choice4": "the average mathematics achievement test scores of Asian children are notably higher than those of North American children.",
+    "answer": 4
+  },
+  {
+    "question": "The characteristics of savant syndrome most directly suggest that intelligence is",
+    "choice1": "a diverse set of distinct abilities.",
+    "choice2": "largely unpredictable and unmeasurable.",
+    "choice3": "a culturally constructed concept.",
+    "choice4": "dependent upon the speed of cognitive processing.",
+    "answer": 1
+  },
+  {
+    "question": "A 12-year-old who responded to the original Stanford-Binet with the proficiency typical of an average 9-year-old was said to have an IQ of",
+    "choice1": "115.",
+    "choice2": "85.",
+    "choice3": "133.",
+    "choice4": "75.",
+    "answer": 4
+  },
+  {
+    "question": "The intelligence test scores of today's better-fed population ________ the scores of the 1930s population.",
+    "choice1": "are higher than",
+    "choice2": "can't be compared with",
+    "choice3": "are lower than",
+    "choice4": "are equal to",
+    "answer": 1
+  },
+  {
+    "question": "Molly has just taken a test of her capacity to learn to be a computer programmer. This is an example of a(n) ________ test.",
+    "choice1": "interest",
+    "choice2": "validity",
+    "choice3": "aptitude",
+    "choice4": "factor analysis",
+    "answer": 3
+  },
+  {
+    "question": "Howard Gardner is most likely to agree that the concept of intelligence includes all of the following EXCEPT",
+    "choice1": "logical-mathmetical",
+    "choice2": "emotional",
+    "choice3": "bodily-kinesthetic",
+    "choice4": "spatial",
+    "answer": 2
+  },
+  {
+    "question": "According to research conducted in orphanages, which of the following is LEAST likely to retard normal brain development?",
+    "choice1": "limited physical contact",
+    "choice2": "malnutrition",
+    "choice3": "engaging activities with caregiver",
+    "choice4": "sensory deprivation",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following persons best illustrates Sternberg's concept of creative intelligence?",
+    "choice1": "Shelley, a newspaper reporter who has established a large network of information sources",
+    "choice2": "Jamal, a student who quickly recognizes the correct answers to multiple-choice test questions",
+    "choice3": "Gareth, a college student who determines how to get a large bed up the winding stairs in the dorm",
+    "choice4": "Cindy, a young mother who prefers cleaning her house to supervising her children",
+    "answer": 3
+  },
+  {
+    "question": "Robert Sternberg distinguished among analytical, practical, and ________ intelligence.",
+    "choice2": "musical",
+    "choice3": "physical",
+    "choice4": "spatial",
+    "choice1": "creative",
+    "answer": 1
+  },
+  {
+    "question": "Studies of children with IQ scores over 135 have concluded that they are likely to",
+    "choice1": "have stranger anxiety as a child.",
+    "choice2": "have low emotional intelligence.",
+    "choice3": "be physically weak.",
+    "choice4": "be academically successful.",
+    "answer": 4
+  },
+  {
+    "question": "Research on the determinants of intelligence indicates that",
+    "choice1": "environmental influences outweigh genetic influence on intelligence levels.",
+    "choice2": "both genes (nature) and environment (nurture) have some influence on intelligence.",
+    "choice3": "there is no scientific method for determining the role of nature and nurture on intelligence.",
+    "choice4": "there is no relationship between nature and nurture issue and intelligence.",
+    "answer": 2
+  },
+  {
+    "question": "Howard Gardner identified a total of ________ intelligences.",
+    "choice1": "fifteen",
+    "choice2": "eight",
+    "choice3": "twelve",
+    "choice4": "five",
+    "answer": 2
+  },
+  {
+    "question": "When Mrs. McGuire asks her students to answer questions in class, she can quickly tell from their facial expressions whether they are happy to participate. Mrs. McGuire's perceptual skill best illustrates",
+    "choice1": "factor analysis.",
+    "choice2": "emotional intelligence.",
+    "choice3": "validity.",
+    "choice4": "analytical intelligence.",
+    "answer": 2
+  },
+  {
+    "question": "Melinda completed the Computer Programming Aptitude Test when she applied for a position with Beta Electronics. Six months later, she took the same test when she applied for a position with another company. The fact that her scores were almost identical on the two occasions suggests that the test has a high degree of",
+    "choice1": "content validity.",
+    "choice2": "stability.",
+    "choice3": "reliability.",
+    "choice4": "standardization.",
+    "answer": 3
+  },
+  {
+    "question": "Sasha is 18 years old and has a mild intellectual disability. She has achieved the equivalent of a sixth-grade education and will soon begin vocational training so that she can earn a living. Sasha's intelligence score is most likely between",
+    "choice1": "0 and 20.",
+    "choice2": "20 and 35.",
+    "choice3": "100 and 130.",
+    "choice4": "50 and 70.",
+    "answer": 4
+  },
+  {
+    "question": "Twenty-two-year-old Bernie takes an assessment that includes eleven subtests of his diverse cognitive ability such as digit span, vocabulary, and object assembly. Bernie has completed the",
+    "choice1": "SAT.",
+    "choice2": "WAIS.",
+    "choice3": "GRE.",
+    "choice4": "WISC.",
+    "answer": 2
+  },
+  {
+    "question": "Of the following, who best illustrates Sternberg's concept of analytical intelligence?",
+    "choice1": "Selma, a fifth-grader who solves complicated mathematical problems in record time",
+    "choice2": "Nicole, a teenager who completes the road test for her driver's license without a single error",
+    "choice3": "Trudy, a high school student who receives lower grades in physical education than in any other course",
+    "choice4": "Freda, a business executive who effectively motivates her sales staff",
+    "answer": 1
+  },
+  {
+    "question": "Five-year-old Wilbur performs on an intelligence test at a level characteristic of an average 4-year-old. According to Alfred Binet's calculation of intelligence, Wilbur's mental age is",
+    "choice1": "20.",
+    "choice2": "-1.",
+    "choice3": "4.5.",
+    "choice4": "4.",
+    "answer": 4
+  },
+  {
+    "question": "Those who score above average on tests of mathematical aptitude are also likely to score above average on tests of verbal aptitude. According to Spearman, this is because we have",
+    "choice1": "multiple intelligences.",
+    "choice2": "intelligence factors.",
+    "choice3": "intelligent quotients.",
+    "choice4": "general intelligence.",
+    "answer": 4
+  },
+  {
+    "question": "The Sternberg-Wagner test measures writing skills, skill in motivating others, and ability to effectively delegate tasks. This test measures which of the intelligences described by Sternberg's triarchic theory of intelligence?",
+    "choice1": "creative intelligence",
+    "choice2": "emotional intelligence",
+    "choice3": "practical intelligence",
+    "choice4": "analytical intelligence",
+    "answer": 3
+  },
+  {
+    "question": "If both depressed and nondepressed individuals receive similar scores on a diagnostic test for depression, it suggests that the test",
+    "choice1": "does not produce scores that form a normal distribution.",
+    "choice2": "has not been factor-analyzed.",
+    "choice3": "is not valid.",
+    "choice4": "is not reliable.",
+    "answer": 3
+  },
+  {
+    "question": "According to research, females are likely to outperform males on all of the following cognitive tasks EXCEPT",
+    "choice1": "detecting emotion",
+    "choice2": "verbal fluency",
+    "choice3": "tests of spatial ability",
+    "choice4": "nonverbal memory",
+    "answer": 3
+  },
+  {
+    "question": "The final exam in a calculus course is a teachermade test created to see how much you learned this semester. It would be an example of a(n) ________ test.",
+    "choice2": "diagnostic",
+    "choice3": "general intelligence",
+    "choice4": "aptitude",
+    "choice1": "achievement",
+    "answer": 1
+  },
+  {
+    "question": "Individuals with Down syndrome are",
+    "choice1": "unlikely to show obvious signs of intellectual disability.",
+    "choice3": "intellectually disabled due to neglect during infancy.",
+    "choice4": "intellectually disabled, except for one specific ability in which they excel.",
+    "choice2": "born with an extra chromosome.",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following are positively correlated with intelligence?",
+    "choice1": "brain size and speed of processing",
+    "choice2": "chronological age",
+    "choice3": "height and weight",
+    "choice4": "optimism and intrinsic motivation",
+    "answer": 1
+  },
+  {
+    "question": "Dr. Benthem reports that the scores of 100 male and 100 female students on his new test of mechanical reasoning form a normal curve. From his statement we may conclude that",
+    "choice1": "the average score on the test was 50 percent correct.",
+    "choice2": "the average male score was better than the average female score.",
+    "choice3": "the median score on the test was significantly higher than the mean score.",
+    "choice4": "relatively few students' scores deviated extremely from the groups' average score.",
+    "answer": 4
+  },
+  {
+    "question": "Alfred Binet designed a test of intellectual abilities in order to",
+    "choice1": "provide a quantitative estimate of inherited intellectual potential.",
+    "choice2": "identify children likely to have difficulty learning in regular school classes.",
+    "choice3": "distinguish between people with high general intelligence factor (g) and savant syndrome.",
+    "choice4": "assess general capacity for goal-directed adaptive behavior.",
+    "answer": 2
+  },
+  {
+    "question": "About ________ percent of WAIS scores fall between 85 and 115.",
+    "choice1": "50",
+    "choice2": "0",
+    "choice3": "68",
+    "choice4": "30",
+    "answer": 3
+  }
+]

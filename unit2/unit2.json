@@ -1,0 +1,802 @@
+[
+  {
+    "question": "For you to be able to run, ________ must relay messages from your central nervous system to your leg muscles.",
+    "choice1": "agonists",
+    "choice2": "motor neurons ",
+    "choice3": "the autonomic nervous system",
+    "choice4": "interneurons",
+    "answer": 2
+  },
+  {
+    "question": "Prozac, a drug commonly prescribed to treat depression, prevents the sending neuron from absorbing excess serotonin sent to the receiving neuron. Which process does this drug prevent from taking place?",
+    "choice1": "depolarization",
+    "choice2": "an action potential",
+    "choice3": "reuptake ",
+    "choice4": "a refractory period",
+    "answer": 3
+  },
+  {
+    "question": "In transmitting sensory information to the brain, an electrical signal travels from the ________ of a single neuron.",
+    "choice1": "dendrites to the cell body to the axon ",
+    "choice2": "dendrites to the axon to the cell body",
+    "choice3": "axon to the dendrites to the cell body",
+    "choice4": "axon to the cell body to the dendrites",
+    "answer": 1
+  },
+  {
+    "question": "Your life would be most immediately threatened if you suffered destruction of the",
+    "choice1": "medulla. ",
+    "choice2": "angular gyrus.",
+    "choice3": "hippocampus.",
+    "choice4": "amygdala.",
+    "answer": 1
+  },
+  {
+    "question": "When the release of the ACh neurotransmitter is blocked by the venom of a Black Widow spider, the result is",
+    "choice1": "depression.",
+    "choice2": "muscular paralysis. ",
+    "choice3": "aggression.",
+    "choice4": "schizophrenia.",
+    "answer": 2
+  },
+  {
+    "question": "Tremors experienced by Michael J. Fox and others who suffer from Parkinson's disease are the result of an undersupply of the major inhibitory neurotransmitter known as ________, which is also linked to seizures.",
+    "choice1": "dopamine ",
+    "choice2": "serotonin",
+    "choice3": "glutamate",
+    "choice4": "GABA",
+    "answer": 1
+  },
+  {
+    "question": "Which part of the brain controls the heartbeat and breathing?",
+    "choice1": "pons",
+    "choice2": "thalamus",
+    "choice3": "medulla ",
+    "choice4": "amygdala",
+    "answer": 3
+  },
+  {
+    "question": "The thin surface layer of interconnected neural cells that covers the cerebrum is called the",
+    "choice1": "cerebral cortex. ",
+    "choice2": "corpus callosum.",
+    "choice3": "cerebellum.",
+    "choice4": "reticular formation.",
+    "answer": 1
+  },
+  {
+    "question": "When Mr. Valdez thought his 1-year-old daughter had fallen down the stairs, his heartbeat accelerated, his blood pressure rose, and he began to perspire heavily. Once Mr. Valdez realized that his daughter was alright, his ________ nervous system began to slow his heart beat and return to a calm state.",
+    "choice1": "sensorimotor",
+    "choice2": "somatic",
+    "choice3": "sympathetic",
+    "choice4": "parasympathetic",
+    "answer": 4
+  },
+  {
+    "question": "To identify which specific brain areas are most active during a particular mental task, researchers would be most likely to make use of a(n) __ to observe which areas of the brain are receiving increased bloodflow.",
+    "choice1": "fMRI. ",
+    "choice2": "EEG.",
+    "choice3": "PET scan.",
+    "choice4": "CT scan.",
+    "answer": 1
+  },
+  {
+    "question": "Addictive drug cravings are likely to be associated with reward centers in the",
+    "choice1": "cerebellum.",
+    "choice2": "reticular formation.",
+    "choice3": "angular gyrus.",
+    "choice4": "hypothalamus.",
+    "answer": 4
+  },
+  {
+    "question": "Chromosomes are located within human",
+    "choice1": "genes.",
+    "choice2": "axons.",
+    "choice3": "cells. ",
+    "choice4": "dendrites.",
+    "answer": 3
+  },
+  {
+    "question": "While you are hiking in the mountains, a rattlesnake slithers across your trail. Which of the following triggers the 'fight-or-flight' response, increasing your heart rate and blood pressure, as you run away?",
+    "choice1": "somatic nervous system",
+    "choice2": "sympathetic nervous system ",
+    "choice3": "parasympathetic nervous system",
+    "choice4": "motor cortex",
+    "answer": 2
+  },
+  {
+    "question": "Bob's undersupply of serotonin is most likely the cause of his",
+    "choice1": "Alzheimer's disease.",
+    "choice2": "schizophrenia.",
+    "choice3": "Parkinson's disease.",
+    "choice4": "depression. ",
+    "answer": 4
+  },
+  {
+    "question": "To demonstrate that brain stimulation can make a rat violently aggressive, a neuroscientist should electrically stimulate the rat's",
+    "choice1": "amygdala. ",
+    "choice2": "thalamus.",
+    "choice3": "reticular formation.",
+    "choice4": "medulla.",
+    "answer": 1
+  },
+  {
+    "question": "Professor Assad suggested that a cautious attitude toward sexual encounters has proven to be more reproductively advantageous to women than to men because the birth process is time-consuming. This suggestion best illustrates the logic of a(n) ________ theory of sexual behavior.",
+    "choice1": "social learning",
+    "choice2": "Freudian",
+    "choice3": "evolutionary ",
+    "choice4": "humanistic",
+    "answer": 3
+  },
+  {
+    "question": "The endocrine system is slower than the nervous system because it relies on glands to secrete chemical messengers directly into __ to stimulate the body's response.",
+    "choice1": "synaptic gaps.",
+    "choice2": "dendrites.",
+    "choice3": "the bloodstream. ",
+    "choice4": "sensory neurons.",
+    "answer": 3
+  },
+  {
+    "question": "The surgical removal of a large tumor from Dane's occipital lobe resulted in extensive loss of brain tissue. Dane is most likely to suffer some loss of",
+    "choice1": "muscular coordination.",
+    "choice2": "visual perception. ",
+    "choice3": "language comprehension.",
+    "choice4": "speaking ability.",
+    "answer": 2
+  },
+  {
+    "question": "After Terry lost a finger in an industrial accident, the area of his sensory cortex devoted to receiving input from that finger gradually became very responsive to sensory input from his adjacent fingers. This best illustrates",
+    "choice1": "plasticity. ",
+    "choice2": "hemispherectomy.",
+    "choice3": "tomography.",
+    "choice4": "phrenology.",
+    "answer": 1
+  },
+  {
+    "question": "The function of dendrites is to",
+    "choice1": "transmit signals to other neurons.",
+    "choice2": "control pain through the release of opiate-like chemicals into the brain.",
+    "choice3": "coordinate the activation of the parasympathetic and sympathetic nervous systems.",
+    "choice4": "receive incoming signals from other neurons. ",
+    "answer": 4
+  },
+  {
+    "question": "Someone trying to figure out an optical illusion is probably experiencing increased brain waves and bloodflow to which brain structure?",
+    "choice1": "thalamus",
+    "choice2": "right hemisphere ",
+    "choice3": "reticular formation",
+    "choice4": "medulla oblongata",
+    "answer": 2
+  },
+  {
+    "question": "The reproductive advantage enjoyed by organisms best suited to a particular environment is known as",
+    "choice1": "behavior genetics.",
+    "choice2": "self-regulation.",
+    "choice3": "natural selection. ",
+    "choice4": "heritability.",
+    "answer": 3
+  },
+  {
+    "question": "Evolutionary psychologists emphasize that environmentally adaptive behaviors are those that have promoted",
+    "choice1": "reproductive success. ",
+    "choice2": "behavior genetics.",
+    "choice3": "heritability.",
+    "choice4": "cultural diversity.",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following would be under the control of the somatic nervous system?",
+    "choice1": "regulation of blood sugar",
+    "choice2": "heartbeat",
+    "choice3": "digestion of food",
+    "choice4": "picking up a pencil ",
+    "answer": 4
+  },
+  {
+    "question": "Schizophrenia is most closely linked with excess receptor activity for the neurotransmitter",
+    "choice1": "acetylcholine (ACh).",
+    "choice2": "serotonin.",
+    "choice3": "GABA.",
+    "choice4": "dopamine. ",
+    "answer": 4
+  },
+  {
+    "question": "A brief electrical charge that travels down the axon of a neuron is called the",
+    "choice1": "refractory period.",
+    "choice2": "synapse.",
+    "choice3": "action potential. ",
+    "choice4": "myelin sheath.",
+    "answer": 3
+  },
+  {
+    "question": "Mary is participating in brain study that requires her to receive radioactive glucose so researchers can observe the 'hot spots' in her brain while she tries to recognize the faces shown to her. The type of neuroimaging technique being utilized by researchers is the",
+    "choice1": "EEG.",
+    "choice2": "MRI.",
+    "choice3": "CT scan",
+    "choice4": "PET scan. ",
+    "answer": 4
+  },
+  {
+    "question": "If a genetic predisposition to fear darkness contributes to reproductive success, that trait will likely be passed on to subsequent generations. This best illustrates",
+    "choice1": "natural selection. ",
+    "choice2": "behavior genetics.",
+    "choice3": "nurture.",
+    "choice4": "self-regulation.",
+    "answer": 1
+  },
+  {
+    "question": "Some man-made drugs, such as opiates, have molecular structures similar to the chemicals found in the body's neurotransmitters. Flooding the brain with these man-made drugs will likely cause",
+    "choice1": "the terminal ends of the neuron to deteriorate.",
+    "choice2": "an overdose as the man-made and natural molecules overload the synapse.",
+    "choice3": "addiction.",
+    "choice4": "a decrease in the amount of the chemical naturally produced by the body. ",
+    "answer": 4
+  },
+  {
+    "question": "How do evolutionary psychologists explain why pregnant women from cultures across the world tend to avoid bitter, strongly flavored foods?",
+    "choice1": "Most cultures educate women about the dangers of certain foods on a developing fetus.",
+    "choice2": "Women and men have genetic differences in taste preferences.",
+    "choice3": "Bitter tastes can be an indication of foods toxic toward a developing baby, so this preference developed through natural selection.",
+    "choice4": "Pregnant women tend to associate with one another and they acquire similar food preferences through social conformity.",
+    "answer": 3
+  },
+  {
+    "question": "The body's speedy, electrochemical information system is called the",
+    "choice1": "action potential.",
+    "choice2": "nervous system. ",
+    "choice3": "circulatory system.",
+    "choice4": "threshold.",
+    "answer": 2
+  },
+  {
+    "question": "Pain-killing drugs such as morphine occupy the same neurotransmitter receptor sites as the 'feel good' chemicals in",
+    "choice1": "epinephrine.",
+    "choice2": "serotonin.",
+    "choice3": "dopamine.",
+    "choice4": "endorphins. ",
+    "answer": 4
+  },
+  {
+    "question": "Researchers developing prosthetics are likely to study direct stimulation of the ___ to understand how the brain controls movement.",
+    "choice1": "temporal lobe",
+    "choice2": "medulla",
+    "choice3": "hippocampus",
+    "choice4": "motor cortex ",
+    "answer": 4
+  },
+  {
+    "question": "The brain and spinal cord form the __ nervous system.",
+    "choice1": "parasympathetic",
+    "choice2": "central ",
+    "choice3": "somatic",
+    "choice4": "autonomic",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a component of the peripheral nervous system?",
+    "choice1": "parasympathetic nervous system",
+    "choice2": "central nervous system ",
+    "choice3": "sympathetic nervous system",
+    "choice4": "autonomic nervous system",
+    "answer": 2
+  },
+  {
+    "question": "Due to a car accident, David had damage to the left cerebral hemisphere and is most likely unable to",
+    "choice1": "control his emotions.",
+    "choice2": "breath on his own.",
+    "choice3": "draw shapes.",
+    "choice4": "speak fluently. ",
+    "answer": 4
+  },
+  {
+    "question": "The chemical messengers of the endocrine system are called",
+    "choice1": "interneurons.",
+    "choice2": "agonists.",
+    "choice3": "hormones. ",
+    "choice4": "neurotransmitters.",
+    "answer": 3
+  },
+  {
+    "question": "Someone trying to add a long series of three digit numbers is probably experiencing increased brain waves and bloodflow to which brain structure?",
+    "choice1": "left hemisphere ",
+    "choice2": "thalamus",
+    "choice3": "reticular formation",
+    "choice4": "medulla",
+    "answer": 1
+  },
+  {
+    "question": "The auditory hallucinations experienced by people with schizophrenia are most closely linked with the activation of areas in which brain area?",
+    "choice1": "amygdala",
+    "choice2": "hypothalamus",
+    "choice3": "sensory cortex",
+    "choice4": "temporal lobes ",
+    "answer": 4
+  },
+  {
+    "question": "Psychoactive drugs interfere with normal neural transmission. Where does this interference take place?",
+    "choice1": "hormones",
+    "choice2": "cell body",
+    "choice3": "myelin sheath",
+    "choice4": "synapse ",
+    "answer": 4
+  },
+  {
+    "question": "For you to experience the pain of a sprained ankle, ________ must first relay messages from your ankle to your central nervous system.",
+    "choice1": "interneurons",
+    "choice2": "motor neurons",
+    "choice3": "sensory neurons ",
+    "choice4": "endocrines",
+    "answer": 3
+  },
+  {
+    "question": "Which part of your brain receives information that you are moving your legs?",
+    "choice1": "motor cortex",
+    "choice2": "Broca's area",
+    "choice3": "sensory cortex ",
+    "choice4": "hypothalamus",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is the component of the limbic system that plays an essential role in the processing of new memories?",
+    "choice1": "medulla",
+    "choice2": "thalamus",
+    "choice3": "hippocampus ",
+    "choice4": "hypothalamus",
+    "answer": 3
+  },
+  {
+    "question": "Neurotransmitters are released from vesicles located on knoblike terminals at the end of the",
+    "choice1": "myelin sheath.",
+    "choice2": "axon. ",
+    "choice3": "cell body.",
+    "choice4": "action potential.",
+    "answer": 2
+  },
+  {
+    "question": "Alzheimer's disease is most closely linked to the deterioration of neurons that produce",
+    "choice1": "dopamine.",
+    "choice2": "epinephrine.",
+    "choice3": "acetylcholine (ACh). ",
+    "choice4": "endorphins.",
+    "answer": 3
+  },
+  {
+    "question": "Which statement best reflects current psychology's understanding of the relationship between nature and nurture?",
+    "choice1": "human behavior is best explained by the interaction of nature and nurture ",
+    "choice2": "nature is at conflict with nurture in regards to human behavior",
+    "choice3": "nature and nurture are not influences on human behavior",
+    "choice4": "nurture is the sole factor that determines human behavior",
+    "answer": 1
+  },
+  {
+    "question": "Adoptive parents are most likely to influence the ________ of their adopted children.",
+    "choice1": "political attitudes ",
+    "choice2": "extraversion",
+    "choice3": "personality",
+    "choice4": "adult height",
+    "answer": 1
+  },
+  {
+    "question": "José has just played a long, bruising football game but feels little fatigue or discomfort. His lack of pain is most likely caused by the release of",
+    "choice1": "dopamine.",
+    "choice2": "glutamate.",
+    "choice3": "endorphins. ",
+    "choice4": "insulin.",
+    "answer": 3
+  },
+  {
+    "question": "Your conscious awareness of your own name and self-identity depends primarily on the normal functioning of the brain's wrinkled surface area called the",
+    "choice1": "cerebral cortex. ",
+    "choice2": "hypothalamus.",
+    "choice3": "amygdala.",
+    "choice4": "sympathetic nervous system.",
+    "answer": 1
+  },
+  {
+    "question": "Someone who has difficulty speaking after a stroke is suffering from which of the following?",
+    "choice1": "right brain",
+    "choice2": "lesion",
+    "choice3": "neurogenesis",
+    "choice4": "aphasia ",
+    "answer": 4
+  },
+  {
+    "question": "Research indicates that memories retrieved during hypnosis are",
+    "choice1": "experienced as being inaccurate even when they are true.",
+    "choice2": "often accurate indicators of childhood sexual abuse.",
+    "choice3": "often a combination of fact and fiction.",
+    "choice4": "forgotten again as soon as the person awakens from the hypnotic state.",
+    "answer": 3
+  },
+  {
+    "question": "Research has indicated that hypnosis",
+    "choice1": "enables some people to undergo surgery with only a local anesthesia.",
+    "choice2": "is helpful in overcoming alcohol addictions.",
+    "choice3": "is a state of unconsciousness, not an altered state of consciousness.",
+    "choice4": "can block sensory input.",
+    "answer": 1
+  },
+  {
+    "question": "Hypnosis involves a state of",
+    "choice1": "increased physical stamina.",
+    "choice2": "low-amplitude and high-frequency brain waves.",
+    "choice3": "improved perceptual skills.",
+    "choice4": "heightened openness to suggestion.",
+    "answer": 4
+  },
+  {
+    "question": "LSD and other powerful hallucinogens are chemically similar to, and therefore block the actions of, a subtype of the \"feel good\" neurotransmitter",
+    "choice1": "THC.",
+    "choice2": "melatonin.",
+    "choice3": "glutamate.",
+    "choice4": "serotonin.",
+    "answer": 4
+  },
+  {
+    "question": "The hypnagogic sensations of falling or floating are most likely to occur during which sleep stage?",
+    "choice1": "REM",
+    "choice2": "Stage 1",
+    "choice3": "Stage 4",
+    "choice4": "Stage 3",
+    "answer": 2
+  },
+  {
+    "question": "Some researchers suggest that the brain activity associated with REM sleep provides the sleeping brain with periodic stimulation needed to build and preserve neural pathways during sleep. This finding supports which of the following dream theories?",
+    "choice1": "wish-fulfillment",
+    "choice2": "information-processing",
+    "choice3": "physiological function",
+    "choice4": "developmental",
+    "answer": 3
+  },
+  {
+    "question": "Jackie's doctor has advised her to lose weight. Among his concerns are that obesity is a risk factor for developing which of the following sleep disorders?",
+    "choice1": "sleeptalking",
+    "choice2": "night terrors",
+    "choice3": "sleep apnea",
+    "choice4": "sleepwalking",
+    "answer": 3
+  },
+  {
+    "question": "Twenty-two-year-old Felicia scores high in hypnotic responsiveness as measured by the Stanford Hypnotic Susceptibility Scale. Research suggests that Felicia may also have",
+    "choice1": "above average ability to remember dreams.",
+    "choice2": "a rich fantasy life.",
+    "choice3": "below-average intelligence.",
+    "choice4": "difficulty keeping her attention focused on any specific task.",
+    "answer": 2
+  },
+  {
+    "question": "According to Freud's wish fulfillment dream theory, dreams allow us to",
+    "choice1": "stimulate happiness by portraying symbolically positive images.",
+    "choice2": "satisfy wishes hidden in our subconscious that would be inappropriate in our waking consciousness.",
+    "choice3": "develop neural networks needed for efficient brain activity.",
+    "choice4": "sleep undisturbed.",
+    "answer": 2
+  },
+  {
+    "question": "The discomfort and distress that follow the discontinued use of certain drugs is called",
+    "choice1": "intolerance.",
+    "choice2": "withdrawal.",
+    "choice3": "dissociation.",
+    "choice4": "REM rebound.",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following sleep disorders would be the most incapacitating for a commercial bus driver?",
+    "choice1": "sleepwalking",
+    "choice2": "night terrors",
+    "choice3": "narcolepsy",
+    "choice4": "insomnia",
+    "answer": 3
+  },
+  {
+    "question": "Alpha waves are associated with",
+    "choice1": "Stage 4 sleep.",
+    "choice2": "relaxed but awake state.",
+    "choice3": "Stage 2 sleep.",
+    "choice4": "Stage 3 sleep.",
+    "answer": 2
+  },
+  {
+    "question": "Which dream theory suggests that we consolidate the day's memories and learning during REM sleep.",
+    "choice1": "physiological function",
+    "choice2": "wish fulfillment",
+    "choice3": "cognitive development",
+    "choice4": "information processing",
+    "answer": 4
+  },
+  {
+    "question": "After Carlos had been asleep for about an hour and a half, his heart began to beat faster, his breathing became fast and irregular, and his closed eyes began to dart back and forth. Carlos was most likely experiencing",
+    "choice1": "Stage 4 sleep.",
+    "choice2": "sleep apnea.",
+    "choice3": "REM sleep.",
+    "choice4": "a hallucination.",
+    "answer": 3
+  },
+  {
+    "question": "If Marty doesn't drink caffeinated sodas daily, he experiences severe headaches. Marty is most clearly showing signs of",
+    "choice1": "physical dependence.",
+    "choice2": "psychological dependence.",
+    "choice3": "dissociation.",
+    "choice4": "a hypnagogic state.",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following drugs is classified as a stimulant?",
+    "choice1": "alcohol",
+    "choice2": "marijuana",
+    "choice3": "morphine",
+    "choice4": "nicotine",
+    "answer": 4
+  },
+  {
+    "question": "Margie insists that she never dreams, but her sister feels she can prove otherwise. To prove that Margie does dream, the sister should",
+    "choice1": "videotape Margie's first 10 minutes of sleep.",
+    "choice2": "feed Margie lots of rich food just before bedtime.",
+    "choice3": "let Margie sleep a little more than an hour then wake her of sleep and ask her what she's dreaming.",
+    "choice4": "use posthypnotic suggestion to increase the chances of dream recall.",
+    "answer": 3
+  },
+  {
+    "question": "The lack of the neurotransmitter orexin, which is linked to alertness, has been linked to which of the following sleep disorders?",
+    "choice1": "sleepwalking",
+    "choice2": "narcolepsy",
+    "choice3": "sleep apnea",
+    "choice4": "paradoxical sleep",
+    "answer": 2
+  },
+  {
+    "question": "Chronic sleep debt is most likely to promote",
+    "choice1": "sleep apnea.",
+    "choice2": "obesity.",
+    "choice3": "insomnia.",
+    "choice4": "creativity.",
+    "answer": 2
+  },
+  {
+    "question": "By triggering the release of epinephrine and norepinephrine, ________ boosts alertness and diminishes appetite.",
+    "choice1": "heroin",
+    "choice2": "nicotine",
+    "choice3": "alcohol",
+    "choice4": "THC",
+    "answer": 2
+  },
+  {
+    "question": "What is most likely to occur when the brain is repeatedly flooded with artificial opiates?",
+    "choice1": "The immune system is suppressed.",
+    "choice2": "The brain shrinks.",
+    "choice3": "The brain stops producing endorphins.",
+    "choice4": "The level of serotonin is permanently decreased.",
+    "answer": 3
+  },
+  {
+    "question": "Drugs such as barbiturates and opiates that calm neural activity and slow body functions are called",
+    "choice1": "hallucinogens.",
+    "choice2": "stimulants.",
+    "choice3": "endorphins.",
+    "choice4": "depressants.",
+    "answer": 4
+  },
+  {
+    "question": "Terry has not had a decent night of sleep in over a week. If this sleep deprivation continues, he will become increasingly susceptible to",
+    "choice1": "sleep apnea.",
+    "choice2": "dissociation.",
+    "choice3": "viral infections.",
+    "choice4": "insomnia.",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is true of melatonin?",
+    "choice1": "It alters metabolic and hormonal functioning in ways that mimic aging.",
+    "choice2": "It is produced by the brain during the hypnagogic stage in NREM sleep.",
+    "choice3": "Production of melatonin during sleep boosts our immune system, which helps us fight off viral infections.",
+    "choice4": "It is a sleep hormone released by the pineal gland into the bloodstream.",
+    "answer": 4
+  },
+  {
+    "question": "Sleeptalking is most likely to occur during",
+    "choice1": "Stage 3 sleep.",
+    "choice2": "Stage 4 sleep.",
+    "choice3": "Stage 2 sleep.",
+    "choice4": "REM sleep.",
+    "answer": 3
+  },
+  {
+    "question": "Raymond recently got a job that requires him to occasionally work night shifts during which he is extremely sleepy. He is also experiencing difficulty sleeping during the day. His symptoms are most likely due to a disruption of his",
+    "choice1": "physical dependence.",
+    "choice2": "circadian rhythm.",
+    "choice3": "sleep apnea.",
+    "choice4": "hypnagogic sensations.",
+    "answer": 2
+  },
+  {
+    "question": "Physical pain and intense cravings indicate",
+    "choice1": "sleep apnea.",
+    "choice2": "dissociation.",
+    "choice3": "physical dependence.",
+    "choice4": "REM rebound.",
+    "answer": 3
+  },
+  {
+    "question": "Just prior to awakening John from a hypnotic state, the therapist told him that during the next few days he would feel nauseous whenever he ate sweets. John's therapist was attempting to make use of",
+    "choice1": "posthypnotic suggestion.",
+    "choice2": "REM rebound.",
+    "choice3": "hypnagogic sensations.",
+    "choice4": "parallel processing.",
+    "answer": 1
+  },
+  {
+    "question": "Mr. Dayton occasionally stops breathing while sleeping. He wakes up to snort air for a few seconds before falling back to sleep. Mrs. Dayton complains that her husband snores. Clearly, Mr. Dayton suffers from",
+    "choice1": "night terrors.",
+    "choice2": "narcolepsy.",
+    "choice3": "sleep apnea.",
+    "choice4": "aphasia.",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is bad advice for a person trying to overcome insomnia?",
+    "choice1": "Drink a glass of wine 15 minutes before bedtime.",
+    "choice2": "Don't engage in strenuous physical exercise just before bedtime.",
+    "choice3": "Drink a glass of milk 15 minutes before bedtime.",
+    "choice4": "Awaken at the same time every day even if you have had a restless night.",
+    "answer": 1
+  },
+  {
+    "question": "REM sleep is called paradoxical sleep because",
+    "choice1": "it leads to highly imaginative dreams that are perceived as colorless images.",
+    "choice2": "our brain and nervous system are less active and our muscles are very active.",
+    "choice3": "our heart rate is slow and steady, while our breathing is highly irregular.",
+    "choice4": "our nervous system is highly active, while our voluntary muscles hardly move and we are externally calm.",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is most accurate about a typical night's sleep?",
+    "choice1": "As the stages of sleep progress, we eventually reach REM sleep and remain there until awakening the next morning.",
+    "choice2": "Everyone needs 8 hours of sleep per night.",
+    "choice3": "During REM sleep the muscles are tense and brain waves reveal deep relaxation.",
+    "choice4": "The sleep cycle repeats itself every about 90 minutes.",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is true of night terrors?",
+    "choice1": "They jolt the sleeper to a sudden state of full waking alertness.",
+    "choice2": "They are usually recalled vividly for days following their occurrence.",
+    "choice3": "They are typically accompanied by a state of temporary muscular immobility or paralysis.",
+    "choice4": "They typically occur during Stage 4 sleep.",
+    "answer": 4
+  },
+  {
+    "question": "A split in consciousness during hypnosis allows the subject to be focused on they hypnotist's suggestions with part of the brain but to be conscious of other stimuli at the same time. This theory involves",
+    "choice1": "paradoxical sleep.",
+    "choice2": "posthypnotic suggestion.",
+    "choice3": "narcolepsy.",
+    "choice4": "dissociation.",
+    "answer": 4
+  },
+  {
+    "question": "What do methamphetamine, ecstasy, and cocaine have in common?",
+    "choice1": "They excite neural activity and arouse body functions.",
+    "choice2": "They depress neural functioning and reduce pain.",
+    "choice3": "They relax the body, lead to disinhibition, and relax the central nervous system.",
+    "choice4": "They distort perceptions and evoke sensations without sensory input.",
+    "answer": 1
+  },
+  {
+    "question": "Alcohol, marijuana, cocaine, and a wide variety of other chemical agents that alter perceptions and moods are called",
+    "choice1": "psychoactive drugs.",
+    "choice2": "stimulants.",
+    "choice3": "hallucinogens.",
+    "choice4": "physiological dependents.",
+    "answer": 1
+  },
+  {
+    "question": "Which theory suggests that dreams are mental responses to make sense of random bursts of neural stimulation that occur during sleep?",
+    "choice1": "Freud's dream theory",
+    "choice2": "dissociation theory",
+    "choice3": "paradoxical sleep theory",
+    "choice4": "activation-synthesis theory",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is true of alcohol?",
+    "choice1": "In large doses, it is a depressant; in small doses, it is a depressant.",
+    "choice2": "In large doses, it is a depressant; in small doses, it is a stimulant.",
+    "choice3": "In large doses, it is a hallucinogen; in small doses, it is a depressant.",
+    "choice4": "In large doses, it is a stimulant; in small doses, it is a stimulant.",
+    "answer": 1
+  },
+  {
+    "question": "Prior to age 9, children's dreams seem more like a slide show and less like an active story in which the dreamer is an actor. This best illustrates that the content of dreams reflects children's",
+    "choice1": "cognitive development.",
+    "choice2": "psychological dependence.",
+    "choice3": "night terrors.",
+    "choice4": "manifest content.",
+    "answer": 1
+  },
+  {
+    "question": "Layla has difficulty going to sleep and staying asleep. Layla is most likely suffering from",
+    "choice1": "hypnagogic sleep.",
+    "choice2": "night terrors.",
+    "choice3": "sleep apnea.",
+    "choice4": "insomnia.",
+    "answer": 4
+  },
+  {
+    "question": "The need to take larger and larger doses of a drug in order to experience its effects is an indication of",
+    "choice1": "dissociation.",
+    "choice2": "withdrawal.",
+    "choice3": "resistance.",
+    "choice4": "tolerance.",
+    "answer": 4
+  },
+  {
+    "question": "How is the hypothalamus involved in sleep?",
+    "choice1": "Cell clusters in the hypothalamus stimulate the production of relatively slow alpha waves, signaling the transition from deep relaxation to sleep.",
+    "choice2": "The hypothalamus triggers the pituitary gland in the endocrine system to produce the hormone thyroxin, which leads you to sleep.",
+    "choice3": "The action of the hypothalamus suppresses immune cell production that fights off viral infections and cancer.",
+    "choice4": "In response to decreasing light the hypothalamus' suprachiastmatic nucleus causes the pineal gland to increase production of melatonin, leading you to sleep.",
+    "answer": 4
+  },
+  {
+    "question": "Alcohol consumption disrupts the processing of recent experiences into long-term memory by",
+    "choice1": "increasing anxiety.",
+    "choice2": "decreasing REM sleep.",
+    "choice3": "decreasing tolerance.",
+    "choice4": "decreasing sleep apnea.",
+    "answer": 2
+  },
+  {
+    "question": "After a few hours of asleep, Bobby often sits up in bed screaming incoherently. His mother tries to awaken him, but with no success. His pulse races and he gasps for breath. The next morning, he remembers nothing. It appears that Bobby suffers from",
+    "choice1": "sleep spindles.",
+    "choice2": "narcolepsy.",
+    "choice3": "sleep apnea.",
+    "choice4": "night terrors.",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following typically occur(s) during REM sleep?",
+    "choice1": "night terrors",
+    "choice2": "narcolepsy",
+    "choice3": "muscular tension",
+    "choice4": "genital arousal",
+    "answer": 4
+  },
+  {
+    "question": "The rhythmic bursts of brain activity that occur during Stage 2 sleep are called",
+    "choice1": "alpha waves.",
+    "choice2": "circadian rhythms.",
+    "choice3": "amplitude waves.",
+    "choice4": "sleep spindles.",
+    "answer": 4
+  },
+  {
+    "question": "According to the __ theory, hypnotized people believe they are hypnotized and play their role accordingly by letting the hypnotist direct their attention.",
+    "choice1": "withdrawal.",
+    "choice2": "dissociation.",
+    "choice3": "social influence.",
+    "choice4": "Freud's dream.",
+    "answer": 3
+  },
+  {
+    "question": "Researchers have demonstrated that hypnosis can be useful in treating all of the following conditions EXCEPT",
+    "choice1": "headaches.",
+    "choice2": "pain.",
+    "choice3": "helping individuals with drug, alcohol, or smoking addictions.",
+    "choice4": "asthma.",
+    "answer": 3
+  },
+  {
+    "question": "The release of stored serotonin and the eventual damage of serotonin-producing neurons is most closely associated with the long-term use of",
+    "choice1": "alcohol.",
+    "choice2": "Ecstasy.",
+    "choice3": "amphetamines.",
+    "choice4": "barbiturates.",
+    "answer": 2
+  },
+  {
+    "question": "When cocaine is snorted, free-based, or injected, it produces a rush of euphoria by",
+    "choice1": "producing hallucinations.",
+    "choice2": "depleting the brain's supply of dopamine, serotonin and norepinephrine..",
+    "choice3": "increasing the occurrence of alpha waves.",
+    "choice4": "triggering a state of dissociation.",
+    "answer": 2
+  }
+]
