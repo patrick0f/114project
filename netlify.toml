@@ -1,0 +1,3 @@
+[build]
+  base = "src"         # Set the base directory to "src"
+  publish = "src"      # Set the publish directory to "src"
