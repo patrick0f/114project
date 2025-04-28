@@ -1,5 +1,4 @@
 // netlify/functions/chat.js
-const fetch = require("node-fetch");
 exports.handler = async (event) => {
   const body = JSON.parse(event.body);
   const res = await fetch("https://api.openai.com/v1/chat/completions", {
