@@ -95,6 +95,7 @@ async function callChatGPT(prompt) {
   const resp = json.choices[0].message.content;
   console.log(resp);
 localStorage.setItem("response", resp);
+return resp;
 }
 
 nextbtn.addEventListener("click", async () => {
@@ -124,7 +125,7 @@ Please format your response exactly like this, with a max response length of 135
 <p>To supplement your {related deficiency}, consider {two potential asian food alternatives}! {explain how each suggestion is beneficial and its effects on the body/healthy components in a positve and enthusiastic tone} </p>
 `
 
-callChatGPT(prompt);
+await callChatGPT(prompt);
 
 // 4) finally, go to results.html
 window.location.assign("results.html");
