@@ -107,8 +107,7 @@ Please format your response exactly like this, with a max response length of 135
 <p>Your diet is { describe deficiencies / excesses; if their diet is great then describe how it is healthy } </p>
 <p>To supplement your {related deficiency}, consider {two potential asian food alternatives}! {explain how each suggestion is beneficial and its effects on the body/healthy components in a positve and enthusiastic tone} </p>
 `
-const API_KEY = "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";
-
+const API_KEY = "__API_KEY__";
 const res = await fetch("https://api.openai.com/v1/chat/completions", {
   method: "POST",
   headers: {
