@@ -92,10 +92,9 @@ async function callChatGPT(prompt) {
     })
   });
   const json = await res.json();
-  const resp = json.choices?.[0]?.message?.content 
-             || JSON.stringify(json, null, 2);
+  const resp = json.choices[0].message.content;
+  console.log(resp);
 localStorage.setItem("response", resp);
-  return json.choices[0].message.content;
 }
 
 nextbtn.addEventListener("click", async () => {
@@ -128,7 +127,7 @@ Please format your response exactly like this, with a max response length of 135
 callChatGPT(prompt);
 
 // 4) finally, go to results.html
-window.location.assign("results.html");
+//window.location.assign("results.html");
 
 } else {
 getNewQuestion();
