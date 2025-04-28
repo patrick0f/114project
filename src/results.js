@@ -14,4 +14,8 @@ function greetingText() {
     evaluation.innerText = "Wow, that was perfect! You're on the way to a 5!";
   }
 }
+
+
+
+
 greetingText();

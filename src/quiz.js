@@ -6,18 +6,16 @@ const progressText = document.getElementById("progressText");
 const progressbarfull = document.getElementById("progressbarfull");
 const loader = document.getElementById("loadingdiv");
 const game = document.getElementById("game");
-console.log('hi')
 let currentQuestion = {};
 let acceptingQuestion = false;
-let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
+let userAnswers = [];
 
 let questions = [];
 
-let testNum = localStorage.getItem("num");
-let fileName = `unit${testNum}.json`;
-console.log(fileName)
+let fileName = `questions.json`;
+
 fetch(fileName)
   .then((res) => {
     return res.json();
@@ -30,16 +28,18 @@ fetch(fileName)
     console.log(err);
   });
 
-const correctplus = testNum == "10" ? 2 : 4;
-const maxQuestions = testNum == "10" ? 50 : 25;
+const maxQuestions = 5;
 
 let getNewQuestion = () => {
-  questionCounter++;
+  
   progressText.innerText = `Question: ${questionCounter}/${maxQuestions}`;
 
   progressbarfull.style.width = `${(questionCounter / maxQuestions) * 100}%`;
 
-  const questionIndex = Math.floor(Math.random() * availableQuestions.length);
+  const questionIndex = questionCounter;
+
+  questionCounter++;
+
   currentQuestion = availableQuestions[questionIndex];
   question.innerText = currentQuestion.question;
   choices.forEach((choice) => {
@@ -47,19 +47,17 @@ let getNewQuestion = () => {
     choice.innerText = currentQuestion["choice" + number];
     choice.disabled = false;
   });
+
   availableQuestions.splice(questionIndex, 1);
   acceptingQuestion = true;
   nextbtn.disabled = true;
   choices.forEach((choice) => {
-    choice.parentElement.classList.remove("correct");
-    choice.parentElement.classList.remove("wrong");
     choice.parentElement.classList.remove("disabled");
   });
 };
 
 let startGame = () => {
   questionCounter = 0;
-  score = 0;
   availableQuestions = [...questions];
   getNewQuestion();
   game.classList.remove("hidden");
@@ -75,34 +73,46 @@ choices.forEach((choice) => {
 
 let answerChoice = (click) => {
   let selectedChoice = click.target;
-  let correctChoice = document.querySelector(`#one${currentQuestion.answer}`);
-  let selectedAnswer = selectedChoice.dataset.number;
-  let Correct =
-    selectedAnswer == currentQuestion.answer ? "correct" : "incorrect";
+  console.log(currentQuestion);
+  console.log(selectedChoice);
+  // let correctChoice = document.querySelector(`#one${currentQuestion.answer}`);
+  // let selectedAnswer = selectedChoice.dataset.number;
   choices.forEach((choice) => {
     choice.parentElement.classList.add("disabled");
     choice.disabled = true;
   });
-  if (Correct === "correct") {
-    incrementScore(correctplus);
-    selectedChoice.parentElement.classList.add("correct");
-  } else if (Correct === "incorrect") {
-    selectedChoice.parentElement.classList.add("wrong");
-    correctChoice.parentElement.classList.add("correct");
-  }
 };
 
 nextbtn.addEventListener("click", () => {
   if (availableQuestions.length === 0 || questionCounter >= maxQuestions) {
     localStorage.setItem(`unit${testNum}score`, score);
-    return window.location.assign(`unit${testNum}results.html`);
+
+    
+const API_KEY = "sk-REPLACE_WITH_YOUR_KEY";
+
+document.getElementById("send").onclick = async () => {
+  const prompt = document.getElementById("prompt").value;
+  const res = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${API_KEY}`
+    },
+    body: JSON.stringify({
+      model: "gpt-3.5-turbo",
+      messages: [{ role: "user", content: prompt }],
+      max_tokens: 150
+    })
+  });
+  const json = await res.json();
+  document.getElementById("response").textContent =
+    json.choices?.[0]?.message?.content || JSON.stringify(json, null, 2);
+};
+
+
+
+    return window.location.assign(`results.html`);
   } else {
     getNewQuestion();
   }
 });
-
-let incrementScore = (num) => {
-  score += num;
-};
-
-//add parameter to getNewQuestion to

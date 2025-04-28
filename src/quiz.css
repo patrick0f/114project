@@ -9,6 +9,18 @@
   font-size: 62.5%;
 }
 
+body {
+  background-image: url(../src/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;   
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+}
+
 h1,
 h2,
 h3,
@@ -40,13 +52,16 @@ h3 {
 .container {
   width: 100vw;
   height: auto;
+  min-height: 400px;
   display: flex;
   justify-content: center;
   align-items: center;
   max-width: 80rem;
-  margin: 0 auto;
+  margin: 15px;
   margin-top: 1rem;
   padding: 2rem;
+  background-color: white;
+  border-radius: 12px;
 }
 
 #loadingdiv {
@@ -160,6 +175,10 @@ h3 {
 
 .hudmaintext {
   text-align: center;
+}
+
+#startbtn {
+  width: 100%;
 }
 
 #progressbar {
