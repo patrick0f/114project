@@ -81,6 +81,23 @@ let answerChoice = (click) => {
   });
 };
 
+async function callChatGPT(prompt) {
+  const res = await fetch("/api/chat", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      model: "gpt-3.5-turbo",
+      messages: [{ role: "user", content: prompt }],
+      max_tokens: 500
+    })
+  });
+  const json = await res.json();
+  const resp = json.choices?.[0]?.message?.content 
+             || JSON.stringify(json, null, 2);
+localStorage.setItem("response", resp);
+  return json.choices[0].message.content;
+}
+
 nextbtn.addEventListener("click", async () => {
   // are we done with all questions?
   if (availableQuestions.length === 0 || questionCounter > maxQuestions) {
@@ -107,26 +124,8 @@ Please format your response exactly like this, with a max response length of 135
 <p>Your diet is { describe deficiencies / excesses; if their diet is great then describe how it is healthy } </p>
 <p>To supplement your {related deficiency}, consider {two potential asian food alternatives}! {explain how each suggestion is beneficial and its effects on the body/healthy components in a positve and enthusiastic tone} </p>
 `
-const API_KEY = "__API_KEY__";
-const res = await fetch("https://api.openai.com/v1/chat/completions", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-    "Authorization": `Bearer ${API_KEY}`
-  },
-  body: JSON.stringify({
-    model: "gpt-3.5-turbo",
-    messages: [{ role: "user", content: prompt }],
-    max_tokens: 500
-  })
-});
 
-const json = await res.json();
-
-// 3) persist the result
-const resp = json.choices?.[0]?.message?.content 
-             || JSON.stringify(json, null, 2);
-localStorage.setItem("response", resp);
+callChatGPT(prompt);
 
 // 4) finally, go to results.html
 window.location.assign("results.html");
