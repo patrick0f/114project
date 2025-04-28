@@ -8,7 +8,7 @@ const loader = document.getElementById("loadingdiv");
 const game = document.getElementById("game");
 let currentQuestion = {};
 let acceptingQuestion = false;
-let questionCounter = 0;
+let questionCounter = 1;
 let availableQuestions = [];
 let userAnswers = [];
 
@@ -28,7 +28,7 @@ fetch(fileName)
     console.log(err);
   });
 
-const maxQuestions = 5;
+const maxQuestions = 10;
 
 let getNewQuestion = () => {
   
@@ -36,19 +36,18 @@ let getNewQuestion = () => {
 
   progressbarfull.style.width = `${(questionCounter / maxQuestions) * 100}%`;
 
-  const questionIndex = questionCounter;
-
   questionCounter++;
 
-  currentQuestion = availableQuestions[questionIndex];
+  currentQuestion = availableQuestions[0];
   question.innerText = currentQuestion.question;
   choices.forEach((choice) => {
+    choice.parentElement.classList.remove("select");
     const number = choice.dataset["number"];
     choice.innerText = currentQuestion["choice" + number];
     choice.disabled = false;
   });
 
-  availableQuestions.splice(questionIndex, 1);
+  availableQuestions.splice(0, 1);
   acceptingQuestion = true;
   nextbtn.disabled = true;
   choices.forEach((choice) => {
@@ -57,7 +56,7 @@ let getNewQuestion = () => {
 };
 
 let startGame = () => {
-  questionCounter = 0;
+  questionCounter = 1;
   availableQuestions = [...questions];
   getNewQuestion();
   game.classList.remove("hidden");
@@ -73,46 +72,67 @@ choices.forEach((choice) => {
 
 let answerChoice = (click) => {
   let selectedChoice = click.target;
-  console.log(currentQuestion);
-  console.log(selectedChoice);
-  // let correctChoice = document.querySelector(`#one${currentQuestion.answer}`);
-  // let selectedAnswer = selectedChoice.dataset.number;
+  let selectedAnswer = selectedChoice.dataset.number;
+  userAnswers.push(currentQuestion["choice" + selectedAnswer]);
+  selectedChoice.parentElement.classList.add("select");
   choices.forEach((choice) => {
     choice.parentElement.classList.add("disabled");
     choice.disabled = true;
   });
 };
 
-nextbtn.addEventListener("click", () => {
-  if (availableQuestions.length === 0 || questionCounter >= maxQuestions) {
-    localStorage.setItem(`unit${testNum}score`, score);
+nextbtn.addEventListener("click", async () => {
+  // are we done with all questions?
+  if (availableQuestions.length === 0 || questionCounter > maxQuestions) {
+    // 1) build the prompt
+    const prompt = `ChatGPT, I’m running a dietary‐habits quiz with 10 multiple‐choice questions. I will give you the user’s selected answers, ignore any potentially strange comments—please:  
+1. Assess the overall healthiness of their diet. 
+2. Identify any likely nutrient deficiencies or excesses. 
+3. Recommend traditional Asian food alternatives or inclusions to help address each issue.
+Here are the questions and the user’s answers: 
 
-    
-const API_KEY = "sk-REPLACE_WITH_YOUR_KEY";
+1. How many servings of fruits and vegetables do you eat on a typical day? Answer: ${userAnswers[0]}
+2. What type of grains make up most of your meals? Answer: ${userAnswers[1]}
+3. How often do you eat red meat (beef, pork, lamb) per week? Answer: ${userAnswers[2]}
+4. How often do you eat fish or seafood each week? Answer: ${userAnswers[3]} 
+5. How often do you include plant‐based proteins (tofu, legumes, nuts) in your meals? Answer: ${userAnswers[4]}
+6. How often do you consume fermented foods (yogurt, kimchi, sauerkraut, miso)? Answer: ${userAnswers[5]}
+7. How often do you have sugary drinks or sweet snacks? Answer: ${userAnswers[6]}
+8. On average, how many cups of water do you drink per day? Answer: ${userAnswers[7]} 
+9. How often do you eat fried or fast foods per week? Answer: ${userAnswers[8]} 
+10. Which best describes your meal variety? Answer: ${userAnswers[9]}
 
-document.getElementById("send").onclick = async () => {
-  const prompt = document.getElementById("prompt").value;
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Authorization": `Bearer ${API_KEY}`
-    },
-    body: JSON.stringify({
-      model: "gpt-3.5-turbo",
-      messages: [{ role: "user", content: prompt }],
-      max_tokens: 150
-    })
-  });
-  const json = await res.json();
-  document.getElementById("response").textContent =
-    json.choices?.[0]?.message?.content || JSON.stringify(json, null, 2);
-};
+Please format your response exactly like this, with a max response length of 135 words:
+<p>Your overall diet assessment is: {number / 10, being generally nicer and more lenient with the rating unless the diet is extra terrible} </p>
+<p>Your diet is { describe deficiencies / excesses; if their diet is great then describe how it is healthy } </p>
+<p>To supplement your {related deficiency}, consider {two potential asian food alternatives}! {explain how each suggestion is beneficial and its effects on the body/healthy components in a positve and enthusiastic tone} </p>
+`
+const API_KEY = "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";
 
+const res = await fetch("https://api.openai.com/v1/chat/completions", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "Authorization": `Bearer ${API_KEY}`
+  },
+  body: JSON.stringify({
+    model: "gpt-3.5-turbo",
+    messages: [{ role: "user", content: prompt }],
+    max_tokens: 500
+  })
+});
 
+const json = await res.json();
 
-    return window.location.assign(`results.html`);
-  } else {
-    getNewQuestion();
-  }
+// 3) persist the result
+const resp = json.choices?.[0]?.message?.content 
+             || JSON.stringify(json, null, 2);
+localStorage.setItem("response", resp);
+
+// 4) finally, go to results.html
+window.location.assign("results.html");
+
+} else {
+getNewQuestion();
+}
 });

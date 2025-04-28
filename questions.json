@@ -1,43 +1,72 @@
 [
-    {
-      "question": "Mr. Bown uses his knowledge of a person's cognitive processes to design computer programs that are easier to use. Mr. Bown is most likely a(n) _____ psychologist. ",
-  
-      "choice1": "human factors",
-  
-      "choice2": "clinical ",
-  
-      "choice3": "developmental",
-  
-      "choice4": " biological ",
-  
-      "answer": 1
-    },
-  
-    {
-      "question": " Mark thinks that people are genetically predisposed to dislike bitter-tasting foods because this has enhanced human survival. His belief best illustrates the ________ perspective. ",
-  
-      "choice1": "psychodynamic",
-  
-      "choice2": "cognitive ",
-  
-      "choice3": "behavioral ",
-  
-      "choice4": "evolutionary",
-  
-      "answer": 4
-    },
-  
-    {
-      "question": " Mrs. Thompson believes that her son has become an excellent student because she consistently uses praise and affection to stimulate his learning efforts. Her belief best illustrates a ________ perspective. ",
-  
-      "choice1": " biological ",
-  
-      "choice2": " behavioral",
-  
-      "choice3": "psychodynamic ",
-  
-      "choice4": " evolutionary",
-  
-      "answer": 2
-    }
+  {
+    "question": "How many servings of fruits and vegetables do you eat on a typical day?",
+    "choice1": "0–1",
+    "choice2": "2–3",
+    "choice3": "4–5",
+    "choice4": "6+ (body is tea ;) )"
+  },
+  {
+    "question": "What type of grains make up most of your meals?",
+    "choice1": "Refined grains (white rice, white bread, noodles, pasta, cereals)",
+    "choice2": "Whole grains (brown rice, whole wheat, quinoa, oats)",
+    "choice3": "A mix of both",
+    "choice4": "I mostly eat starchy vegetables (potatoes, corn, beans, squash)"
+  },
+  {
+    "question": "How often do you eat red meat (beef, pork, lamb) per week?",
+    "choice1": "Daily (protein rahhhh)",
+    "choice2": "3–4 times",
+    "choice3": "1–2 times",
+    "choice4": "Rarely or never"
+  },
+  {
+    "question": "How often do you eat fish or seafood each week?",
+    "choice1": "Rarely or never",
+    "choice2": "Once",
+    "choice3": "2–3 times",
+    "choice4": "4+ times"
+  },
+  {
+    "question": "How often do you include plant‐based proteins (tofu, legumes, nuts) in your meals?",
+    "choice1": "Rarely or never",
+    "choice2": "1–2 times/week",
+    "choice3": "3–4 times/week",
+    "choice4": "Daily (we <3 sustainability)"
+  },
+  {
+    "question": "How often do you consume fermented foods (yogurt, kimchi, sauerkraut, miso)?",
+    "choice1": "Rarely or never",
+    "choice2": "Once/week",
+    "choice3": "2–3 times/week",
+    "choice4": "Daily (i know that gut microbiome is serving)"
+  },
+  {
+    "question": "How often do you have sugary drinks or sweet snacks?",
+    "choice1": "Multiple times a day (you better watch that insulin)",
+    "choice2": "Once a day",
+    "choice3": "A few times a week",
+    "choice4": "Rarely or never"
+  },
+  {
+    "question": "On average, how many cups of water do you drink per day?",
+    "choice1": "Less than 4 cups (thirsty asl)",
+    "choice2": "4–7 cups",
+    "choice3": "8–10 cups",
+    "choice4": "More than 10 cups"
+  },
+  {
+    "question": "How often do you eat fried or fast foods per week?",
+    "choice1": "Every day (can't blame you)",
+    "choice2": "3–4 times",
+    "choice3": "1–2 times",
+    "choice4": "Rarely or never"
+  },
+  {
+    "question": "Which best describes your meal variety?",
+    "choice1": "I eat the same few meals every day (ok picky)",
+    "choice2": "I vary meals a bit, but repeat favorites",
+    "choice3": "I try a new recipe weekly",
+    "choice4": "I change my meals regularly"
+  }
 ]

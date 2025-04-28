@@ -154,12 +154,8 @@ h3 {
   background-color: rgb(230, 224, 224, 0.25) !important;
 }
 
-.wrong {
-  background-color: red !important;
-}
-
-.correct {
-  background-color: green !important;
+#evaluation > * {
+  margin: 10px;
 }
 
 #hud {

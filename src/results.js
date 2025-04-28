@@ -1,21 +1,14 @@
-const percentScore = document.querySelector("#testscore");
 const evaluation = document.querySelector("#evaluation");
-let testNum = localStorage.getItem("num");
-let testscore = localStorage.getItem(`unit${testNum}score`);
+let response = localStorage.getItem("response");
 
-percentScore.innerText = `${testscore}%`;
-
-function greetingText() {
-  if (testscore <= 50) {
-    evaluation.innerText = "You can do better than that! Try again next time!";
-  } else if (testscore <= 99) {
-    evaluation.innerText = "Great job! You know your stuff!";
-  } else if (testscore == 100) {
-    evaluation.innerText = "Wow, that was perfect! You're on the way to a 5!";
-  }
+if (response) {
+  evaluation.innerHTML = response;
 }
 
+nextBtn = document.querySelector(".btn");
 
+nextBtn.addEventListener("click", () => {
 
+return window.location.assign(`index.html`);
 
-greetingText();
+});

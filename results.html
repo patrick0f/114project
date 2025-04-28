@@ -6,18 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Results</title>
     <link rel="stylesheet" href="../src/quiz.css" />
+    <link rel="stylesheet" href="../src/question.css" />
   </head>
-  <body>
     <div class="container">
-      <div id="end" class="flex-center flex-column">
-        <h1 class="text-center">You've finished your Unit 1 Assessment!</h1>
-        <h2>Your Score Was:</h2>
-        <h2 id="testscore"></h2>
-        <h3 id="evaluation">Great Job!</h3>
-        <button onclick="location.href='unit1test.html';" class="btn">
-          Take the Test Again
-        </button>
-        <button onclick="location.href='/index.html';" class="btn">Home</button>
+      <div id="game" class="justify-center flex-column">
+        
+        <h1 id="question" class="text-center">Quiz Results!</h1>
+        <h3 id="evaluation">
+          
+          <p>Your overall diet assessment is: 6/10 </p>
+          <p>Your diet is moderately balanced but low in fermented foods and a bit short on daily servings of fruits and vegetables. You also enjoy sugary snacks a few times a week, which could be trimmed back. <br>
+          </p>
+          <p> To supplement your fermented-food deficiency, consider kimchi! This vibrant, tangy Korean staple is bursting with live probiotics that nourish your gut microbiome, boost digestion, and deliver a punch of vitamins A and C—all in one delicious, crunchy bite!</h3>
+        </p>
+         <div id="startbtn" class="flex-center justify-center">
+          <button onclick="location.href='/index.html';" class="btn">Home</button>
+        </div>
       </div>
     </div>
   </body>
