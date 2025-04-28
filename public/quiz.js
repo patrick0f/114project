@@ -127,7 +127,7 @@ Please format your response exactly like this, with a max response length of 135
 callChatGPT(prompt);
 
 // 4) finally, go to results.html
-//window.location.assign("results.html");
+window.location.assign("results.html");
 
 } else {
 getNewQuestion();
