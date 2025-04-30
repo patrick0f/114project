@@ -45,7 +45,7 @@ h2 {
 }
 
 h3 {
-  font-size: 2.8rem;
+  font-size: 2rem;
   font-weight: 500;
 }
 
@@ -158,10 +158,21 @@ h3 {
   margin: 10px;
 }
 
+#tips > * {
+  margin: 5px;
+  font-size: 1.5rem;
+}
+
 #hud {
   display: flex;
   justify-content: space-between;
   margin-top: 2rem;
+}
+
+#references {
+  margin: 10px;
+  font-size: 1rem;
+  padding-bottom: 10px;
 }
 
 .hudprefix {
